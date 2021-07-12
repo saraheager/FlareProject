@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="Rice"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+    <Link
+      Url="Content/Resources/TableStyles/Grid.css" />
+    <Link
+      Url="Content/Sides/Steamed rice.htm" />
+    <Link
+      Url="Content/Resources/Images/Rice.jpg" />
+    <Link
+      Url="Content/Sides/Fried rice.htm" />
+    <Link
+      Url="Content/Resources/Images/Yakimeshi.jpg" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+    <Link
+      Url="Content/Resources/TableStyles/Grid.css" />
+    <Link
+      Url="Content/Sides/Steamed rice.htm" />
+    <Link
+      Url="Content/Resources/Images/Rice.jpg" />
+    <Link
+      Url="Content/Sides/Fried rice.htm" />
+    <Link
+      Url="Content/Resources/Images/Yakimeshi.jpg" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="Default.ScreenOnly" />
+  </AllConditions>
+  <Stylesheets />
+</CatapultFileLinkSet>

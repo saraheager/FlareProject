@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlobalGlossaryCache
+  SavedSource="file:///C:/FlareProject/Output/Sarah_Eager/Temporary/GlobalGlossarySet v.2.xml">
+  <Map>
+    <GlossaryCacheEntry
+      Term="Gochujang (고추장)"
+      glossTerm="Glossary.Term0"
+      SourceFile="/Project/Glossaries/Glossary.flglo">
+      <Definition
+        Link="">A fundamental ingredient in Korean cooking, gochujang is a thick, spicy paste made from red chilli flakes, sticky rice, fermented soybeans and salt.</Definition>
+    </GlossaryCacheEntry>
+    <GlossaryCacheEntry
+      Term="Red miso (赤味噌)"
+      glossTerm="Glossary.Term2"
+      SourceFile="/Project/Glossaries/Glossary.flglo">
+      <Definition
+        Link="">Also known as aka (the Japanese word for red) miso, red miso is saltier with a stronger flavor than other varieties. It can easily overwhelm milder ingredients, so use sparingly.</Definition>
+    </GlossaryCacheEntry>
+    <GlossaryCacheEntry
+      Term="Donabe (どなべ)"
+      glossTerm="Glossary.Term3"
+      SourceFile="/Project/Glossaries/Glossary.flglo">
+      <Definition
+        Link="">A clay pot for use over an open flame. Often, food is cooked at the table on a gas burner. The clay retains its heat for a long time, ideal for keeping food warm during a lengthy meal.</Definition>
+    </GlossaryCacheEntry>
+    <GlossaryCacheEntry
+      Term="White miso (白味噌)"
+      glossTerm="Glossary.Term4"
+      SourceFile="/Project/Glossaries/Glossary.flglo">
+      <Definition
+        Link="">Also known as shiro (the Japanese word for white) miso, white miso is fermented for a shorter time and lower in salt than red and brown miso. It has a mild, sweet flavor.</Definition>
+    </GlossaryCacheEntry>
+    <GlossaryCacheEntry
+      Term="Tangzhong (湯種)"
+      glossTerm="Glossary.Term5"
+      SourceFile="/Project/Glossaries/Glossary.flglo">
+      <Definition
+        Link="">A cooked mix of flour and water, used to soften bread and increase shelf life.</Definition>
+    </GlossaryCacheEntry>
+    <GlossaryCacheEntry
+      Term="Kombu (昆布)"
+      glossTerm="Glossary.Term1"
+      SourceFile="/Project/Glossaries/Glossary.flglo">
+      <Definition
+        Link="">A member of the kelp family, kombu is a source of glutamic acid, responsible for umami. Kombu is used to make dashi.</Definition>
+    </GlossaryCacheEntry>
+    <GlossaryCacheEntry
+      Term="Tenkasu (てんかす)"
+      glossTerm="Glossary.Term6"
+      SourceFile="/Project/Glossaries/Glossary.flglo">
+      <Definition
+        Link="">Crumbs made from tempura batter. It is commonly used as a batter filling or topping for texture.</Definition>
+    </GlossaryCacheEntry>
+    <GlossaryCacheEntry
+      Term="Aonori (青のり)"
+      glossTerm="Glossary.Term8"
+      SourceFile="/Project/Glossaries/Glossary.flglo">
+      <Definition
+        Link="">A dried and powdered green seaweed. Most commonly used as a topping for okonomiyaki and takoyaki</Definition>
+    </GlossaryCacheEntry>
+    <GlossaryCacheEntry
+      Term="Kewpie (キューピー)"
+      glossTerm="Glossary.Term9"
+      SourceFile="/Project/Glossaries/Glossary.flglo">
+      <Definition
+        Link="">Mayonnaise made from egg yolks only. Essential for topping okonomiyaki and takoyaki.</Definition>
+    </GlossaryCacheEntry>
+    <GlossaryCacheEntry
+      Term="Bonito (鰹)"
+      glossTerm="Glossary.Term10"
+      SourceFile="/Project/Glossaries/Glossary.flglo">
+      <Definition
+        Link="">Smoked and fermented skipjack tuna that forms the base of dashi stock.</Definition>
+    </GlossaryCacheEntry>
+    <GlossaryCacheEntry
+      Term="Dashi (だし)"
+      glossTerm="Glossary.Term11"
+      SourceFile="/Project/Glossaries/Glossary.flglo">
+      <Definition
+        Link="">A stock that is the backbone of Japanese food. Dashi forms the base for miso soup, broths, and ramen to accentuate umami</Definition>
+    </GlossaryCacheEntry>
+    <GlossaryCacheEntry
+      Term="Tofu (豆腐)"
+      glossTerm="Glossary.Term12"
+      SourceFile="/Project/Glossaries/Glossary.flglo">
+      <Definition
+        Link="">Originating in China, tofu is formed from coagulated soy curds that are pressed into blocks of varying softness. Low in calories and high in protein, it is often used as a meat substitute.</Definition>
+    </GlossaryCacheEntry>
+    <GlossaryCacheEntry
+      Term="Sake (酒)"
+      glossTerm="Glossary.Term13"
+      SourceFile="/Project/Glossaries/Glossary.flglo">
+      <Definition
+        Link="">Japanese rice wine.</Definition>
+    </GlossaryCacheEntry>
+    <GlossaryCacheEntry
+      Term="Nori (海苔)"
+      glossTerm="Glossary.Term14"
+      SourceFile="/Project/Glossaries/Glossary.flglo">
+      <Definition
+        Link="">A dried, edible seaweed frequently used in Japanese cuisine. Due to its strong flavour it is often used to wrap sushi or onigiri, or as a ramen topping.</Definition>
+    </GlossaryCacheEntry>
+    <GlossaryCacheEntry
+      Term="Xanthan gum"
+      glossTerm="Glossary.Term15"
+      SourceFile="/Project/Glossaries/Glossary.flglo">
+      <Definition
+        Link="">An additive that is commonly added to foods as a thickener or stabiliser, and is frequently used to help bind gluten free baked goods.</Definition>
+    </GlossaryCacheEntry>
+    <GlossaryCacheEntry
+      Term="Mirin (みりん)"
+      glossTerm="Glossary.Term17"
+      SourceFile="/Project/Glossaries/Glossary.flglo">
+      <Definition
+        Link="">A type of rice wine commonly found in Japanese cuisine. It is similar to sake, but with a lower sugar and alcohol content.</Definition>
+    </GlossaryCacheEntry>
+  </Map>
+  <SourceUrls />
+</CatapultGlobalGlossaryCache>

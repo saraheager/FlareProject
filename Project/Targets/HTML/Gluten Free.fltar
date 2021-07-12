@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="Gluten Free Recipes"
+  Type="WebHelp2"
+  Destinations=""
+  ShowMadCapBacklink="true"
+  GlossaryTermConversion="marked"
+  MasterToc="/Project/TOCs/TOC.fltoc"
+  ConditionTagExpression="include[Default.NotA5HTML or Default.ScreenOnly or Default.Web or &quot;Ingredients.Gluten free&quot; or Ingredients.HTMLNon-Vegetarian or Ingredients.Non-Vegetarian or Ingredients.Not-DF], exclude[Default.A5only or Default.Hidden or Default.Mobile or Default.NotA5Print or Default.PrintOnly or Default.Tablet or &quot;Ingredients.Chicken Curry&quot; or &quot;Ingredients.Dairy free&quot; or &quot;Ingredients.Free from&quot; or Ingredients.HTMLVegetarian or Ingredients.MisoRamen or Ingredients.Not-GF or Ingredients.Shokupan or &quot;Ingredients.Vegetable curry&quot; or Ingredients.Vegetarian]"
+  DefaultUrl="/Content/Frontmatter/Home.htm"
+  MasterStylesheet="/Content/Resources/Stylesheets/NewStylesheet.css"
+  Skin="/Project/Skins/Side-Navigation.flskn">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true"
+    OutputFormat="docx" />
+</CatapultTarget>

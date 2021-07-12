@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTargetOutput
+  GeneratedTarget="/Output/Sarah_Eager/PDF/Gluten free/Gluten free.pdf"
+  BuildVersion="17.0.7762.26602">
+  <Files>
+    <Url
+      Source="Output/Sarah_Eager/Temporary/PDF/Gluten free/Gluten free_4780B88E/Resources/Images/Curry-Chicken.jpg" />
+    <Url
+      Source="Output/Sarah_Eager/Temporary/PDF/Gluten free/Gluten free_4780B88E/Resources/Images/Vegetable-Stock.jpg" />
+    <Url
+      Source="Output/Sarah_Eager/Temporary/PDF/Gluten free/Gluten free_4780B88E/Resources/Images/Minus.png" />
+    <Url
+      Source="Output/Sarah_Eager/Temporary/PDF/Gluten free/Gluten free_4780B88E/Resources/Images/Shokupan.jpg" />
+    <Url
+      Source="Output/Sarah_Eager/Temporary/PDF/Gluten free/Gluten free_4780B88E/Resources/Images/gyudon.jpg" />
+    <Url
+      Source="Output/Sarah_Eager/Temporary/PDF/Gluten free/Gluten free_4780B88E/Resources/Images/Plus.png" />
+    <Url
+      Source="Output/Sarah_Eager/Temporary/PDF/Gluten free/Gluten free_4780B88E/Resources/Images/123.jpg" />
+    <Url
+      Source="Output/Sarah_Eager/Temporary/PDF/Gluten free/Gluten free_4780B88E/Resources/Images/Tamago.jpg" />
+    <Url
+      Source="Output/Sarah_Eager/Temporary/PDF/Gluten free/Gluten free_4780B88E/Resources/Images/Miso-soup.jpg" />
+    <Url
+      Source="Output/Sarah_Eager/Temporary/PDF/Gluten free/Gluten free_4780B88E/Resources/Images/tamagoyakipan.jpg" />
+    <Url
+      Source="Output/Sarah_Eager/Temporary/PDF/Gluten free/Gluten free_4780B88E/Resources/Images/Taiyaki.jpg" />
+    <Url
+      Source="Output/Sarah_Eager/Temporary/PDF/Gluten free/Gluten free_4780B88E/Resources/TableStyles/Ingredients.css" />
+    <Url
+      Source="Output/Sarah_Eager/Temporary/PDF/Gluten free/Gluten free_4780B88E/Resources/Images/Castella-Cake.jpg" />
+    <Url
+      Source="Output/Sarah_Eager/Temporary/PDF/Gluten free/Gluten free_4780B88E/Resources/Images/Backmatter-Heading-Background.png" />
+    <Url
+      Source="Output/Sarah_Eager/Temporary/PDF/Gluten free/Gluten free_4780B88E/Resources/Images/Okonomiyaki.jpg" />
+    <Url
+      Source="Output/Sarah_Eager/Temporary/PDF/Gluten free/Gluten free_4780B88E/Resources/Images/Donabe2.jpg" />
+    <Url
+      Source="Output/Sarah_Eager/Temporary/PDF/Gluten free/Gluten free_4780B88E/Resources/Images/Ramen.jpg" />
+    <Url
+      Source="Output/Sarah_Eager/PDF/Gluten free/Gluten free.pdf" />
+    <Url
+      Source="Output/Sarah_Eager/Temporary/PDF/Gluten free/Gluten free_4780B88E/Resources/Images/Dashi.jpg" />
+    <Url
+      Source="Output/Sarah_Eager/Temporary/PDF/Gluten free/Gluten free_4780B88E/Resources/Images/Cstock1.jpg" />
+    <Url
+      Source="Output/Sarah_Eager/Temporary/PDF/Gluten free/Gluten free_4780B88E/Resources/Images/rice.jpg" />
+    <Url
+      Source="Output/Sarah_Eager/Temporary/PDF/Gluten free/Gluten free_4780B88E/Resources/Images/Yakimeshi.jpg" />
+    <Url
+      Source="Output/Sarah_Eager/Temporary/PDF/Gluten free/Gluten free_4780B88E/Resources/Images/rice-cooker.jpg" />
+    <Url
+      Source="Output/Sarah_Eager/Temporary/PDF/Gluten free/Gluten free_4780B88E/Resources/Images/Miso-Ramen-Chicken.jpg" />
+    <Url
+      Source="Output/Sarah_Eager/Temporary/PDF/Gluten free/Gluten free_4780B88E/Resources/Images/Curry-Vegetable.jpg" />
+    <Url
+      Source="Output/Sarah_Eager/Temporary/PDF/Gluten free/Gluten free_4780B88E/Resources/Images/Noodles.jpg" />
+    <Url
+      Source="Output/Sarah_Eager/Temporary/PDF/Gluten free/Gluten free_4780B88E/Resources/Images/Ramen-eggs.jpg" />
+    <Url
+      Source="Output/Sarah_Eager/Temporary/PDF/Gluten free/Gluten free_4780B88E/Resources/Images/Donabe.jpg" />
+    <Url
+      Source="Output/Sarah_Eager/Temporary/PDF/Gluten free/Gluten free_4780B88E/Resources/TableStyles/RecipeInfo.css" />
+    <Url
+      Source="Output/Sarah_Eager/Temporary/PDF/Gluten free/Gluten free_4780B88E/Resources/Images/Takoyaki.jpg" />
+    <Url
+      Source="Output/Sarah_Eager/Temporary/PDF/Gluten free/Gluten free_4780B88E/Resources/Images/maxresdefault.jpg" />
+    <Url
+      Source="Output/Sarah_Eager/Temporary/PDF/Gluten free/Gluten free_4780B88E/Resources/TableStyles/Grid.css" />
+    <Url
+      Source="Output/Sarah_Eager/Temporary/PDF/Gluten free/Gluten free_4780B88E/Resources/Images/takoyakipan.jpg" />
+  </Files>
+  <Skins />
+</CatapultTargetOutput>

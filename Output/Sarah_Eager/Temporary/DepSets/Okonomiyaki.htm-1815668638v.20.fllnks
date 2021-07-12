@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="Okonomiyaki"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/TableStyles/RecipeInfo.css" />
+    <Link
+      Url="Content/Resources/TableStyles/Ingredients.css" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+    <Link
+      Url="Content/Common/Snippets/Dashi.flsnp" />
+    <Link
+      Url="Project/ConditionTagSets/Ingredients.flcts" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/TableStyles/RecipeInfo.css" />
+    <Link
+      Url="Content/Resources/TableStyles/Ingredients.css" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+    <Link
+      Url="Content/Common/Snippets/Dashi.flsnp" />
+    <Link
+      Url="Project/ConditionTagSets/Ingredients.flcts" />
+  </LongLinks>
+  <Anchors />
+  <Keywords>
+    <IndexCacheEntry
+      Term="Dashi"
+      Conditions=""
+      LocalConditions=""
+      Position="46" />
+    <IndexCacheEntry
+      Term="Soy sauce"
+      Conditions=""
+      LocalConditions=""
+      Position="62" />
+    <IndexCacheEntry
+      Term="Cabbage"
+      Conditions=""
+      LocalConditions=""
+      Position="72" />
+    <IndexCacheEntry
+      Term="Tenkasu"
+      Conditions=""
+      LocalConditions=""
+      Position="78" />
+    <IndexCacheEntry
+      Term="Tofu"
+      Conditions="Ingredients.Vegetarian"
+      LocalConditions=""
+      Position="109" />
+    <IndexCacheEntry
+      Term="Bonito"
+      Conditions=""
+      LocalConditions=""
+      Position="114" />
+    <IndexCacheEntry
+      Term="Aonori"
+      Conditions=""
+      LocalConditions=""
+      Position="125" />
+    <IndexCacheEntry
+      Term="Mayonnaise"
+      Conditions=""
+      LocalConditions=""
+      Position="136" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="Default.PrintOnly" />
+    <Condition
+      Tag="Default.NotA5Print" />
+    <Condition
+      Tag="Default.ScreenOnly" />
+    <Condition
+      Tag="Ingredients.Gluten free" />
+    <Condition
+      Tag="Ingredients.Not-DF" />
+    <Condition
+      Tag="Ingredients.Dairy free" />
+    <Condition
+      Tag="Ingredients.Non-Vegetarian" />
+    <Condition
+      Tag="Ingredients.Vegetarian" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/TableStyles/RecipeInfo.css" />
+    <Url
+      Source="Content/Resources/TableStyles/Ingredients.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

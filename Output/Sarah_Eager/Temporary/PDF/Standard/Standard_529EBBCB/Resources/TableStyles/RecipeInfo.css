@@ -1,0 +1,423 @@
+﻿/* MadCap Table Style: */
+
+/*<meta Version="9" />*/
+
+mcTableStyle
+{
+	name: RecipeInfo;
+	border-collapse: collapse;
+	border-left-style: none;
+	border-left-width: 0px;
+	border-right-style: none;
+	border-right-width: 1px;
+	border-top-style: none;
+	border-top-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	max-id: 3;
+	border-bottom-color: #000000;
+	border-top-color: #000000;
+	border-right-color: #000000;
+}
+
+mcTableColumnStyle
+{
+	span: 1;
+	separator-style: none;
+	separator-width: 1px;
+	name: Column1;
+	id: 0;
+	separator-color: #000000;
+}
+
+mcTableHeadStyle
+{
+	span: 1;
+	separator-style: solid;
+	separator-width: 1px;
+	name: Header1;
+	id: 2;
+	separator-color: #000000;
+	text-align: left;
+}
+
+mcTableBodyStyle
+{
+	span: 1;
+	separator-style: none;
+	separator-width: 1px;
+	name: Body1;
+	id: 1;
+	separator-color: #000000;
+	text-align: left;
+}
+
+mcTableFootStyle
+{
+	span: 1;
+	separator-style: none;
+	separator-width: 1px;
+	name: Footer1;
+	id: 3;
+	separator-color: #000000;
+}
+
+
+/* Cell Styles: */
+ 
+.TableStyle-RecipeInfo
+{
+	border-collapse: collapse;
+	border-left-style: none;
+	border-left-width: 0px;
+	border-right-style: none;
+	border-right-color: #000000;
+	border-right-width: 1px;
+	border-top-style: none;
+	border-top-color: #000000;
+	border-top-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: var(--Light);
+	border-bottom-width: 1px;
+	border-spacing: 0px 0px;
+}
+
+.TableStyle-RecipeInfo-Column-Column1
+{
+	
+}
+
+.TableStyle-RecipeInfo-Head-Header1
+{
+	
+}
+
+.TableStyle-RecipeInfo-HeadI-Column1-Header1
+{
+	text-align: left;
+}
+
+.TableStyle-RecipeInfo-HeadI-Column1-Header1 p
+{
+	
+}
+
+.TableStyle-RecipeInfo-HeadE-Column1-Header1
+{
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: none;
+	text-align: left;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+}
+
+.TableStyle-RecipeInfo-HeadE-Column1-Header1 p
+{
+	
+}
+
+.TableStyle-RecipeInfo-HeadF-Column1-Header1
+{
+	text-align: left;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+}
+
+.TableStyle-RecipeInfo-HeadF-Column1-Header1 p
+{
+	
+}
+
+.TableStyle-RecipeInfo-HeadH-Column1-Header1
+{
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: none;
+	text-align: left;
+}
+
+.TableStyle-RecipeInfo-HeadH-Column1-Header1 p
+{
+	
+}
+
+.TableStyle-RecipeInfo-HeadD-Column1-Header1
+{
+	text-align: left;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+}
+
+.TableStyle-RecipeInfo-HeadD-Column1-Header1 p
+{
+	
+}
+
+.TableStyle-RecipeInfo-HeadC-Column1-Header1
+{
+	text-align: left;
+}
+
+.TableStyle-RecipeInfo-HeadC-Column1-Header1 p
+{
+	
+}
+
+.TableStyle-RecipeInfo-HeadB-Column1-Header1
+{
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: none;
+	text-align: left;
+}
+
+.TableStyle-RecipeInfo-HeadB-Column1-Header1 p
+{
+	
+}
+
+.TableStyle-RecipeInfo-HeadA-Column1-Header1
+{
+	text-align: left;
+}
+
+.TableStyle-RecipeInfo-HeadA-Column1-Header1 p
+{
+	
+}
+
+.TableStyle-RecipeInfo-HeadG-Column1-Header1
+{
+	text-align: left;
+}
+
+.TableStyle-RecipeInfo-HeadG-Column1-Header1 p
+{
+	
+}
+
+.TableStyle-RecipeInfo-Foot-Footer1
+{
+	
+}
+
+.TableStyle-RecipeInfo-FootI-Column1-Footer1
+{
+	
+}
+
+.TableStyle-RecipeInfo-FootI-Column1-Footer1 p
+{
+	
+}
+
+.TableStyle-RecipeInfo-FootE-Column1-Footer1
+{
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: none;
+	border-top-width: 1px;
+	border-top-color: #000000;
+	border-top-style: none;
+}
+
+.TableStyle-RecipeInfo-FootE-Column1-Footer1 p
+{
+	
+}
+
+.TableStyle-RecipeInfo-FootF-Column1-Footer1
+{
+	border-top-width: 1px;
+	border-top-color: #000000;
+	border-top-style: none;
+}
+
+.TableStyle-RecipeInfo-FootF-Column1-Footer1 p
+{
+	
+}
+
+.TableStyle-RecipeInfo-FootH-Column1-Footer1
+{
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: none;
+}
+
+.TableStyle-RecipeInfo-FootH-Column1-Footer1 p
+{
+	
+}
+
+.TableStyle-RecipeInfo-FootD-Column1-Footer1
+{
+	border-top-width: 1px;
+	border-top-color: #000000;
+	border-top-style: none;
+}
+
+.TableStyle-RecipeInfo-FootD-Column1-Footer1 p
+{
+	
+}
+
+.TableStyle-RecipeInfo-FootC-Column1-Footer1
+{
+	
+}
+
+.TableStyle-RecipeInfo-FootC-Column1-Footer1 p
+{
+	
+}
+
+.TableStyle-RecipeInfo-FootB-Column1-Footer1
+{
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: none;
+}
+
+.TableStyle-RecipeInfo-FootB-Column1-Footer1 p
+{
+	
+}
+
+.TableStyle-RecipeInfo-FootA-Column1-Footer1
+{
+	
+}
+
+.TableStyle-RecipeInfo-FootA-Column1-Footer1 p
+{
+	
+}
+
+.TableStyle-RecipeInfo-FootG-Column1-Footer1
+{
+	
+}
+
+.TableStyle-RecipeInfo-FootG-Column1-Footer1 p
+{
+	
+}
+
+.TableStyle-RecipeInfo-Body-Body1
+{
+	
+}
+
+.TableStyle-RecipeInfo-BodyI-Column1-Body1
+{
+	text-align: left;
+}
+
+.TableStyle-RecipeInfo-BodyI-Column1-Body1 p
+{
+	
+}
+
+.TableStyle-RecipeInfo-BodyE-Column1-Body1
+{
+	text-align: left;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: none;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: none;
+}
+
+.TableStyle-RecipeInfo-BodyE-Column1-Body1 p
+{
+	
+}
+
+.TableStyle-RecipeInfo-BodyF-Column1-Body1
+{
+	text-align: left;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: none;
+}
+
+.TableStyle-RecipeInfo-BodyF-Column1-Body1 p
+{
+	
+}
+
+.TableStyle-RecipeInfo-BodyH-Column1-Body1
+{
+	text-align: left;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: none;
+}
+
+.TableStyle-RecipeInfo-BodyH-Column1-Body1 p
+{
+	
+}
+
+.TableStyle-RecipeInfo-BodyD-Column1-Body1
+{
+	text-align: left;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: none;
+}
+
+.TableStyle-RecipeInfo-BodyD-Column1-Body1 p
+{
+	
+}
+
+.TableStyle-RecipeInfo-BodyC-Column1-Body1
+{
+	text-align: left;
+}
+
+.TableStyle-RecipeInfo-BodyC-Column1-Body1 p
+{
+	
+}
+
+.TableStyle-RecipeInfo-BodyB-Column1-Body1
+{
+	text-align: left;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: none;
+}
+
+.TableStyle-RecipeInfo-BodyB-Column1-Body1 p
+{
+	
+}
+
+.TableStyle-RecipeInfo-BodyA-Column1-Body1
+{
+	text-align: left;
+}
+
+.TableStyle-RecipeInfo-BodyA-Column1-Body1 p
+{
+	
+}
+
+.TableStyle-RecipeInfo-BodyG-Column1-Body1
+{
+	text-align: left;
+}
+
+.TableStyle-RecipeInfo-BodyG-Column1-Body1 p
+{
+	
+}
+

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../../Resources/TableStyles/Ingredients.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <link href="../Resources/Stylesheets/Styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <table style="mc-table-style: url('../Resources/TableStyles/Ingredients.css');" class="TableStyle-Ingredients" cellspacing="0" MadCap:conditions="General.ScreenOnly">
+            <col class="TableStyle-Ingredients-Column-Column1" />
+            <col class="TableStyle-Ingredients-Column-Column1" />
+            <tbody>
+                <tr class="TableStyle-Ingredients-Body-Body1">
+                    <td class="TableStyle-Ingredients-BodyB-Column1-Body1">
+                        <p><a href="Miso Ramen.pdf" download="_blank">Download recipe Ramen</a>
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Ingredients-Body-Body1">
+                    <td class="TableStyle-Ingredients-BodyB-Column1-Body1">
+                        <p><a href="Shokupan.pdf" download="_blank">Download recipe Shokupan</a>
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Ingredients-Body-Body1">
+                    <td class="TableStyle-Ingredients-BodyB-Column1-Body1">
+                        <p><a href="Chicken curry.pdf" download="_blank">Download recipe Ccurry</a>
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Ingredients-Body-Body1">
+                    <td class="TableStyle-Ingredients-BodyB-Column1-Body1">
+                        <p><a href="Vegetable curry.pdf" download="_blank">Download recipe vcurry</a>
+                        </p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

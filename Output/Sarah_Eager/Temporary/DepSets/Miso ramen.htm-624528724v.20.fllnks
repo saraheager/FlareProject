@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="Miso ramen"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/TableStyles/RecipeInfo.css" />
+    <Link
+      Url="Content/Resources/TableStyles/Ingredients.css" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+    <Link
+      Url="Content/Resources/Snippets/Miso-ShortDesc.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/WhatYouNeed.flsnp" />
+    <Link
+      Url="Project/ConditionTagSets/Ingredients.flcts" />
+    <Link
+      Url="Content/Common/Chicken stock.htm" />
+    <Link
+      Url="Content/Common/Vegetable stock.htm" />
+    <Link
+      Url="Content/Common/Ramen noodles.htm" />
+    <Link
+      Url="Content/Soups/Miso Ramen.pdf" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/TableStyles/RecipeInfo.css" />
+    <Link
+      Url="Content/Resources/TableStyles/Ingredients.css" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+    <Link
+      Url="Content/Resources/Snippets/Miso-ShortDesc.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/WhatYouNeed.flsnp" />
+    <Link
+      Url="Project/ConditionTagSets/Ingredients.flcts" />
+    <Link
+      Url="Content/Common/Chicken stock.htm" />
+    <Link
+      Url="Content/Common/Vegetable stock.htm" />
+    <Link
+      Url="Content/Common/Ramen noodles.htm" />
+    <Link
+      Url="Content/Soups/Miso Ramen.pdf" />
+  </LongLinks>
+  <Anchors />
+  <Keywords>
+    <IndexCacheEntry
+      Term="Sesame oil"
+      Conditions=""
+      LocalConditions=""
+      Position="51" />
+    <IndexCacheEntry
+      Term="Garlic"
+      Conditions=""
+      LocalConditions=""
+      Position="56" />
+    <IndexCacheEntry
+      Term="Ginger"
+      Conditions=""
+      LocalConditions=""
+      Position="62" />
+    <IndexCacheEntry
+      Term="Spring onion"
+      Conditions=""
+      LocalConditions=""
+      Position="72" />
+    <IndexCacheEntry
+      Term="Scallion"
+      Conditions=""
+      LocalConditions=""
+      Position="72" />
+    <IndexCacheEntry
+      Term="Pork"
+      Conditions="Ingredients.Non-Vegetarian"
+      LocalConditions=""
+      Position="83" />
+    <IndexCacheEntry
+      Term="Gochujang"
+      Conditions=""
+      LocalConditions=""
+      Position="89" />
+    <IndexCacheEntry
+      Term="Miso"
+      Conditions=""
+      LocalConditions=""
+      Position="96" />
+    <IndexCacheEntry
+      Term="Sake"
+      Conditions=""
+      LocalConditions=""
+      Position="111" />
+    <IndexCacheEntry
+      Term="Chicken stock"
+      Conditions="Ingredients.Non-Vegetarian"
+      LocalConditions=""
+      Position="119" />
+    <IndexCacheEntry
+      Term="Vegetable stock"
+      Conditions="Ingredients.Vegetarian"
+      LocalConditions=""
+      Position="124" />
+    <IndexCacheEntry
+      Term="Soy sauce"
+      Conditions=""
+      LocalConditions=""
+      Position="131" />
+    <IndexCacheEntry
+      Term="Nori"
+      Conditions=""
+      LocalConditions=""
+      Position="154" />
+    <IndexCacheEntry
+      Term="Egg"
+      Conditions=""
+      LocalConditions=""
+      Position="162" />
+    <IndexCacheEntry
+      Term="Tofu"
+      Conditions=""
+      LocalConditions=""
+      Position="181" />
+    <IndexCacheEntry
+      Term="Chicken breast"
+      Conditions="Ingredients.Non-Vegetarian"
+      LocalConditions=""
+      Position="190" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="Default.ScreenOnly" />
+    <Condition
+      Tag="Default.NotA5Print" />
+    <Condition
+      Tag="Default.PrintOnly" />
+    <Condition
+      Tag="Default.A5only" />
+    <Condition
+      Tag="Ingredients.Non-Vegetarian" />
+    <Condition
+      Tag="Ingredients.Vegetarian" />
+    <Condition
+      Tag="Default.Hidden" />
+    <Condition
+      Tag="Default.Mobile" />
+    <Condition
+      Tag="Default.Tablet" />
+    <Condition
+      Tag="Default.Web" />
+    <Condition
+      Tag="Ingredients.HTMLNon-Vegetarian" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/TableStyles/RecipeInfo.css" />
+    <Url
+      Source="Content/Resources/TableStyles/Ingredients.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

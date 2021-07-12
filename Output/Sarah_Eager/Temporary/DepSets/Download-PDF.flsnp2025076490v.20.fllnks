@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/TableStyles/Ingredients.css" />
+    <Link
+      Url="Content/Common/Resources/Stylesheets/Styles.css" />
+    <Link
+      Url="Project/ConditionTagSets/General.flcts" />
+    <Link
+      Url="Content/Common/Resources/TableStyles/Ingredients.css" />
+    <Link
+      Url="Content/Common/Snippets/Miso Ramen.pdf" />
+    <Link
+      Url="Content/Common/Snippets/Shokupan.pdf" />
+    <Link
+      Url="Content/Common/Snippets/Chicken curry.pdf" />
+    <Link
+      Url="Content/Common/Snippets/Vegetable curry.pdf" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/TableStyles/Ingredients.css" />
+    <Link
+      Url="Content/Common/Resources/Stylesheets/Styles.css" />
+    <Link
+      Url="Project/ConditionTagSets/General.flcts" />
+    <Link
+      Url="Content/Common/Resources/TableStyles/Ingredients.css" />
+    <Link
+      Url="Content/Common/Snippets/Miso Ramen.pdf" />
+    <Link
+      Url="Content/Common/Snippets/Shokupan.pdf" />
+    <Link
+      Url="Content/Common/Snippets/Chicken curry.pdf" />
+    <Link
+      Url="Content/Common/Snippets/Vegetable curry.pdf" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="General.ScreenOnly" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/TableStyles/Ingredients.css" />
+    <Url
+      Source="Content/Common/Resources/Stylesheets/Styles.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

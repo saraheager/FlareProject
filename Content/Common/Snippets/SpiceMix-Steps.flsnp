@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>
+                    <p class="subhead">For the spice mix (optional)</p>
+                </MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol>
+                    <li>In a small frying pan, toast the spice mix ingredients until fragrant, excluding paprika, nutmeg and ginger. </li>
+                    <li>Combine the toasted spice mix with the paprika, nutmeg, and ginger in a grinder, and pulse to a fine powder. </li>
+                    <li>In a medium frying pan, melt butter over low heat. Stir in flour and cook, stirring frequently until the roux is dark brown. </li>
+                    <p class="noteBody">This will take approximately 25 minutes.</p>
+                    <li>Add ginger and stir fry for 1 minute.</li>
+                    <li>Add the spice mix and cook for a further minute. Remove the pan from the heat and allow to cool.</li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

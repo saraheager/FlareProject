@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <p class="desc1">Developed in Hokkaido, miso ramen combines miso with an oily broth to create a thick, slightly sweet, and very hearty soup. </p>
+        <p class="desc1" MadCap:conditions="Default.A5only">With its strong flavour, miso soup stands up to a variety of toppings.</p>
+        <p class="descEnd" MadCap:conditions="Default.NotA5Print">With its strong flavour, miso soup stands up to a variety of toppings.</p>
+    </body>
+</html>

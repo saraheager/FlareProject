@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../../Resources/TableStyles/RecipeInfo.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <table style="width: 100%;mc-table-style: url('../../Resources/TableStyles/RecipeInfo.css');" class="TableStyle-RecipeInfo" cellspacing="0">
+            <col class="TableStyle-RecipeInfo-Column-Column1" />
+            <col class="TableStyle-RecipeInfo-Column-Column1" />
+            <col class="TableStyle-RecipeInfo-Column-Column1" />
+            <tbody>
+                <tr class="TableStyle-RecipeInfo-Body-Body1">
+                    <td class="TableStyle-RecipeInfo-BodyB-Column1-Body1">
+                        <p class="tbodytime"><span class="time">Prep:</span> 30 min</p>
+                    </td>
+                    <td class="TableStyle-RecipeInfo-BodyB-Column1-Body1">
+                        <p class="tbodytime"><span class="time">Cook:</span> 1.5 hr</p>
+                    </td>
+                    <td class="TableStyle-RecipeInfo-BodyA-Column1-Body1">
+                        <p class="tbodytime"><span class="time">Serves:</span> 2</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTargetOutput
+  GeneratedTarget="/Output/Sarah_Eager/PDF/PDF.pdf"
+  BuildVersion="17.0.7762.26602">
+  <Files>
+    <Url
+      Source="Output/Sarah_Eager/Temporary/PDF/PDF_1D086981/Resources/Images/Logo.eps" />
+    <Url
+      Source="Output/Sarah_Eager/PDF/PDF.pdf" />
+    <Url
+      Source="Output/Sarah_Eager/Temporary/PDF/PDF_1D086981/Resources/TableStyles/Ingredients.css" />
+    <Url
+      Source="Output/Sarah_Eager/Temporary/PDF/PDF_1D086981/Resources/Images/Hero-Image.png" />
+    <Url
+      Source="Output/Sarah_Eager/Temporary/PDF/PDF_1D086981/Resources/Images/Plus.png" />
+    <Url
+      Source="Output/Sarah_Eager/Temporary/PDF/PDF_1D086981/Resources/Images/Miso-Ramen-Chicken.jpg" />
+    <Url
+      Source="Output/Sarah_Eager/Temporary/PDF/PDF_1D086981/Resources/Images/Minus.png" />
+    <Url
+      Source="Output/Sarah_Eager/Temporary/PDF/PDF_1D086981/Resources/Images/123.jpg" />
+    <Url
+      Source="Output/Sarah_Eager/Temporary/PDF/PDF_1D086981/Resources/Images/maxresdefault.jpg" />
+    <Url
+      Source="Output/Sarah_Eager/Temporary/PDF/PDF_1D086981/Resources/Images/Hero-Image-Print.png" />
+    <Url
+      Source="Output/Sarah_Eager/Temporary/PDF/PDF_1D086981/Resources/Images/Backmatter-Heading-Background.png" />
+  </Files>
+  <Skins />
+</CatapultTargetOutput>

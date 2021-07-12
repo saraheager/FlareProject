@@ -1,0 +1,574 @@
+@namespace MadCap url(http://www.madcapsoftware.com/Schemas/MadCap.xsd);
+/*<meta />*/
+
+:root
+{
+	--Brand1: #076685;
+	--Brand2: #CDE0E7;
+	--Black: #000000;
+	--Dark: #45494c;
+	--Medium: #b9bec1;
+	--Light: #d0d3d5;
+}
+
+body
+{
+	color: var(--Black);
+	font-family: Arial, Avenir, Myriad;
+	font-size: 11pt;
+	line-height: 13pt;
+	margin: 8px;
+}
+
+/* Backmatter */
+
+div.GlossaryPageDefinition
+{
+	font-size: 10pt;
+	font-family: Verdana;
+	color: #000000;
+}
+
+div.GlossaryPageHeading
+{
+	font-size: 21pt;
+	font-weight: normal;
+	margin-bottom: 15px;
+	margin-top: 15px;
+	text-align: left;
+	background-repeat: repeat-x;
+	background-image: url('../Images/Backmatter-Heading-Background.png');
+	font-family: Verdana;
+	color: #ffffff;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	border-bottom-color: #b9bec1;
+}
+
+div.GlossaryPageTerm
+{
+	font-size: 10pt;
+	font-family: Verdana;
+	font-weight: normal;
+	font-style: normal;
+	color: #000000;
+}
+
+MadCap|glossaryProxy
+{
+	border-top: none;
+}
+
+MadCap|indexProxy
+{
+	border-top: none;
+}
+
+p.Index1
+{
+	font-size: 10pt;
+	font-weight: bold;
+}
+
+p.Index2
+{
+	font-size: 10pt;
+	font-weight: normal;
+}
+
+p.IndexHeading
+{
+	font-size: 21pt;
+	font-weight: normal;
+	margin-bottom: 15px;
+	margin-top: 15px;
+	text-align: left;
+	background-image: url('../Images/Backmatter-Heading-Background.png');
+	background-repeat: repeat-x;
+	font-family: Verdana;
+	color: #ffffff;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	border-bottom-color: #b9bec1;
+}
+
+/* Content */
+
+p
+{
+	margin-bottom: 10px;
+	margin-top: 10px;
+	widows: 3;
+	orphans: 3;
+}
+
+p.image
+{
+	margin-bottom: 30px;
+	margin-top: 30px;
+}
+
+p.tbody
+{
+	font-family: Verdana;
+	font-size: 11pt;
+}
+
+p.tgrid
+{
+	vertical-align: middle;
+	mc-float: frame-center;
+	font-size: 20pt;
+	text-transform: uppercase;
+	font-family: Verdana;
+	color: #808080;
+}
+
+p.thead
+{
+	font-size: 11pt;
+}
+
+p.HeadingTopic
+{
+	line-height: 13pt;
+	margin: 8px;
+	font-size: 28pt;
+	text-transform: uppercase;
+	font-family: Verdana;
+	color: #696969;
+	page-break-before: avoid;
+	page-break-after: avoid;
+	page-break-inside: avoid;
+}
+
+/* Frontmatter */
+
+hr.title-page
+{
+	border: solid 0px transparent;
+	background-color: var(--Light);
+	height: 1px;
+	width: 100%;
+	margin-bottom: 30px;
+	margin-top: 370px;
+}
+
+div.tocProxy
+{
+		text-align: left;
+	margin-top: 0;
+	margin-bottom: 38pt;
+	margin-left: 0;
+	font-weight: bold;
+	font-style: normal;
+	font-size: 18pt;
+	font-variant: small-caps;
+	page-break-before: right;
+}
+	p.toctitle
+{
+	text-align: left;
+	margin-top: 0;
+	margin-bottom: 38pt;
+	margin-left: 0;
+	font-weight: bold;
+	font-style: normal;
+	font-size: 18pt;
+	font-variant: small-caps;
+	page-break-before: right;
+}
+
+p.created-using-flare
+{
+	color: var(--Dark);
+	font-weight: bold;
+	margin-top: 18px;
+	font-size: 9pt;
+	line-height: 15pt;
+	text-transform: uppercase;
+}
+
+p.title
+{
+	line-height: 65pt;
+	margin-top: 30px;
+	mc-hyphenate: never;
+	page-break-before: avoid;
+	float: left;
+	font-family: Verdana;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24pt;
+	color: #c0c0c0;
+}
+
+p.title-page-footer
+{
+	color: var(--Dark);
+	font-size: 9pt;
+	frame-break-before: always;
+	line-height: 15pt;
+	margin-top: 30px;
+}
+
+p.title-page-url
+{
+	color: var(--Dark);
+	font-size: 9pt;
+	line-height: 15pt;
+}
+
+p.TOC1
+	{
+		text-align: left;
+		margin-top: 16pt;
+		margin-bottom: 3pt;
+		font-size: 12pt;
+		mc-auto-number-format: ;
+		mc-auto-number-position: outside-head;
+		mc-auto-number-offset: 2cm;
+		margin-left: 0.500cm;
+		page-break-after: avoid;
+	}
+
+	p.TOC2
+	{
+		text-align: left;
+		margin-left: 2.500cm;
+		margin-top: 3pt;
+		margin-bottom: 3pt;
+		font-size: 9pt;
+	}
+
+	p.TOC3
+	{
+		margin-left: 3cm;
+		margin-top: 3pt;
+		margin-bottom: 3pt;
+		font-size: 9pt;
+	}
+
+/* Headings */
+
+h1
+{
+	line-height: 27pt;
+	margin-bottom: 20px;
+	mc-heading-level: 1;
+	mc-hyphenate: never;
+	page-break-before: avoid;
+	page-break-after: avoid;
+	font-family: Verdana;
+	text-transform: uppercase;
+	color: #808080;
+	mc-float: center;
+	font-size: 28pt;
+	font-weight: normal;
+	font-style: normal;
+}
+
+h2
+{
+	font-size: 21pt;
+	font-weight: normal;
+	line-height: 23pt;
+	margin-bottom: 18px;
+	margin-top: 40px;
+	page-break-before: always;
+	mc-heading-level: 2;
+}
+
+h3
+{
+	font-size: 21pt;
+	font-weight: normal;
+	line-height: 23pt;
+	margin-bottom: 18px;
+	margin-top: 40px;
+	page-break-before: always;
+	mc-heading-level: 0;
+}
+
+/* Links */
+
+a
+{
+	color: var(--Brand1);
+}
+
+a:link
+{
+	color: var(--Brand1);
+}
+
+a:visited
+{
+	color: var(--Brand1);
+}
+
+/* Lists */
+
+dd,
+dd p,
+dt,
+dt p,
+li,
+li p
+{
+	margin-bottom: 8px;
+	margin-top: 8px;
+}
+
+dl,
+ol,
+ul
+{
+	letter-spacing: .25;
+	line-height: 20pt;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+/* Page layout */
+
+p.frame-footer-page-number
+{
+	color: var(--Medium);
+	font-size: 11pt;
+	font-weight: bold;
+	text-align: right;
+}
+
+p.frame-footer-text
+{
+	color: var(--Medium);
+	font-size: 11pt;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+p.desc1
+{
+	font-weight: normal;
+	font-style: italic;
+	border-bottom-color: #191970;
+	font-size: 14pt;
+	font-family: 'Verdana';
+}
+
+p.descEnd
+{
+	font-weight: normal;
+	font-style: italic;
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	border-bottom-color: #191970;
+	font-size: 14pt;
+	font-family: 'Verdana';
+}
+
+p.subhead
+{
+	font-size: 14pt;
+	text-transform: uppercase;
+	color: #a9a9a9;
+	font-family: 'Edo SZ';
+	text-align: left;
+	
+}
+
+p.subhead2
+{
+	font-size: 12pt;
+	font-family: 'Archivo Narrow';
+}
+
+p.kanji
+{
+	font-family: 'Edo SZ';
+	float: left;
+	font-weight: normal;
+	font-size: 22pt;
+	color: #808080;
+}
+
+h1.title
+{
+	vertical-align: middle;
+	mc-float: frame-center;
+	font-size: 36pt;
+	text-transform: uppercase;
+	font-family: 'Edo SZ';
+	color: #dcdcdc;
+}
+
+h2.title
+{
+	vertical-align: middle;
+	mc-float: frame-center;
+	font-size: 30pt;
+	text-transform: uppercase;
+	font-family: 'Edo SZ';
+	color: #808080;
+}
+
+p.stepnote
+{
+	text-transform: uppercase;
+	font-family: Verdana;
+	color: #c0c0c0;
+	font-size: 11pt;
+}
+
+MadCap|xref.HeadingTopic
+{
+	mc-format: 'see {quote}{paratext}{quote} on page {page}';
+}
+
+MadCap|xref.para
+{
+	mc-format: 'see {quote}{paratext}{quote} on page {page}';
+}
+
+MadCap|xref.html
+{
+	mc-format: 'see {paratext}';
+}
+
+p.noteTopLine
+{
+	border-bottom-style: solid;
+	border-bottom-width: 1pt;
+	border-bottom-color: #000000;
+	margin-bottom: 3pt;
+	margin-top: 0px;
+	padding: 0px;
+	page-break-after: avoid;
+	column-break-after: avoid;
+	column-break-inside: avoid;
+	page-break-inside: avoid;
+}
+
+p.noteBottomLine
+{
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-top-color: #000000;
+	margin-top: 3pt;
+	margin-bottom: 0px;
+	padding-top: 0px;
+	padding-bottom: 9pt;
+	page-break-before: avoid;
+	column-break-before: avoid;
+	page-break-inside: avoid;
+	column-break-inside: avoid;
+	frame-break-before: avoid;
+	frame-break-inside: avoid;
+}
+
+p.noteBody
+{
+	font-weight: normal;
+	font-style: italic;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	margin-top: 0pt;
+	margin-bottom: 3pt;
+	page-break-inside: avoid;
+	page-break-after: avoid;
+	page-break-before: avoid;
+}
+
+p.noteTip
+{
+	background-repeat: no-repeat;
+	float: left;
+	clear: both;
+	height: 40px;
+	margin-top: 0px;
+	padding-top: 0px;
+	padding-left: 1.9cm;
+	margin-left: 0px;
+	page-break-after: avoid;
+	page-break-before: avoid;
+	column-break-after: avoid;
+	colum-break-before: avoid;
+	column-break-inside: avoid;
+	page-break-inside: avoid;
+	column-break-before: avoid;
+	background-image: url('../Images/Tips.png');
+}
+
+p.noteQuote
+{
+	background-repeat: no-repeat;
+	float: left;
+	clear: both;
+	height: 40px;
+	margin-top: 0px;
+	padding-top: 0px;
+	padding-left: 1.9cm;
+	margin-left: 0px;
+	page-break-after: avoid;
+	page-break-before: avoid;
+	column-break-after: avoid;
+	colum-break-before: avoid;
+	column-break-inside: avoid;
+	page-break-inside: avoid;
+	column-break-before: avoid;
+	background-image: url('../Images/Quote.png');
+}
+
+a.White
+{
+	vertical-align: middle;
+	mc-float: frame-center;
+	font-size: 20pt;
+	text-transform: uppercase;
+	font-family: Verdana;
+	color: #808080;
+}
+
+a
+{
+	vertical-align: middle;
+	mc-float: frame-center;
+	font-size: 10pt;
+	font-family: Verdana;
+	color: #808080;
+}
+
+MadCap|glossaryTerm
+{
+	font-size: 10pt;
+	font-weight: normal;
+	font-style: normal;
+	font-family: Verdana;
+	color: #000000;
+}
+
+a.Popup
+{
+	color: #000000;
+}
+
+div.GlossaryPageEntry
+{
+	font-size: 10pt;
+	font-family: Verdana;
+	color: #000000;
+}
+
+a.GlossaryPageTerm
+{
+	color: #000000;
+}

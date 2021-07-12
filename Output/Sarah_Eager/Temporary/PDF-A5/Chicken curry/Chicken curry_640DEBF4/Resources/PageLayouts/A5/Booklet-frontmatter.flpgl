@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles MadCap:fileTags="../../Output/Sarah_Eager/Temporary/PDF-A5/Chicken curry/Project/Advanced/Product Tags.CompactNVRAS3000" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <Page Name="Cover" Width="800" Height="800" Padding="20px" PageSize="A5" PageType="first" PaddingLeft="0" PaddingRight="0" PaddingTop="0" PaddingBottom="0" BackgroundRepeat="stretch" BackgroundColor="#696969" BackgroundType="Solid" BackgroundImage="../../Images/Miso-Ramen-Chicken.jpg">
+        <Frame X="24.60625mm" Y="8.995833mm" Width="102.6583mm" Height="95.25mm" Flow="header" Anchors="" Right="79px" Bottom="400px">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:h1 xhtml:class="title"><MadCap:variable xhtml:name="General.Recipe Type" />
+                        </xhtml:h1>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+    </Page>
+    <Page Width="800" Height="800" Padding="20px" PageSize="A5" PageType="title" PaddingLeft="0" PaddingRight="0" PaddingTop="0" PaddingBottom="0" BackgroundRepeat="stretch" BackgroundColor="#696969" BackgroundType="Solid" BackgroundImage="../../Images/Curry-Chicken.jpg">
+        <Frame X="24.60625mm" Y="8.995833mm" Width="102.6583mm" Height="95.25mm" Flow="header" Anchors="" Right="79px" Bottom="400px">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:h1 xhtml:class="title"><MadCap:variable xhtml:name="General.Recipe Type" />
+                        </xhtml:h1>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+    </Page>
+</PageStyles>

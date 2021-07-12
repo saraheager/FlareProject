@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <p>, <MadCap:xref href="../Dashi.htm" class="pdf" MadCap:conditions="Default.NotA5Print">on page 1</MadCap:xref><MadCap:conditionalText MadCap:conditions="Default.ScreenOnly"><a href="../Dashi.htm" class="text">see Dashi</a></MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Default.NotA5Print,Default.ScreenOnly">, </MadCap:conditionalText>or dashi powder</p>
+    </body>
+</html>

@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTargetOutput
+  GeneratedTarget="/Output/Sarah_Eager/PDF/Vegetarian/Vegetarian.pdf"
+  BuildVersion="17.0.7762.26602">
+  <Files>
+    <Url
+      Source="Output/Sarah_Eager/Temporary/PDF/Vegetarian/Vegetarian_65B11C62/Resources/TableStyles/RecipeInfo.css" />
+    <Url
+      Source="Output/Sarah_Eager/Temporary/PDF/Vegetarian/Vegetarian_65B11C62/Resources/Images/Shokupan.jpg" />
+    <Url
+      Source="Output/Sarah_Eager/Temporary/PDF/Vegetarian/Vegetarian_65B11C62/Resources/Images/gyudon.jpg" />
+    <Url
+      Source="Output/Sarah_Eager/Temporary/PDF/Vegetarian/Vegetarian_65B11C62/Resources/Images/Tamago.jpg" />
+    <Url
+      Source="Output/Sarah_Eager/Temporary/PDF/Vegetarian/Vegetarian_65B11C62/Resources/Images/Curry-Vegetable.jpg" />
+    <Url
+      Source="Output/Sarah_Eager/Temporary/PDF/Vegetarian/Vegetarian_65B11C62/Resources/Images/tamagoyakipan.jpg" />
+    <Url
+      Source="Output/Sarah_Eager/Temporary/PDF/Vegetarian/Vegetarian_65B11C62/Resources/Images/Cstock1.jpg" />
+    <Url
+      Source="Output/Sarah_Eager/Temporary/PDF/Vegetarian/Vegetarian_65B11C62/Resources/Images/Miso-soup.jpg" />
+    <Url
+      Source="Output/Sarah_Eager/Temporary/PDF/Vegetarian/Vegetarian_65B11C62/Resources/TableStyles/Ingredients.css" />
+    <Url
+      Source="Output/Sarah_Eager/Temporary/PDF/Vegetarian/Vegetarian_65B11C62/Resources/Images/Minus.png" />
+    <Url
+      Source="Output/Sarah_Eager/Temporary/PDF/Vegetarian/Vegetarian_65B11C62/Resources/Images/Okonomiyaki.jpg" />
+    <Url
+      Source="Output/Sarah_Eager/Temporary/PDF/Vegetarian/Vegetarian_65B11C62/Resources/Images/Yakimeshi.jpg" />
+    <Url
+      Source="Output/Sarah_Eager/Temporary/PDF/Vegetarian/Vegetarian_65B11C62/Resources/Images/takoyakipan.jpg" />
+    <Url
+      Source="Output/Sarah_Eager/Temporary/PDF/Vegetarian/Vegetarian_65B11C62/Resources/Images/Taiyaki.jpg" />
+    <Url
+      Source="Output/Sarah_Eager/Temporary/PDF/Vegetarian/Vegetarian_65B11C62/Resources/Images/Curry-Chicken.jpg" />
+    <Url
+      Source="Output/Sarah_Eager/Temporary/PDF/Vegetarian/Vegetarian_65B11C62/Resources/Images/Donabe.jpg" />
+    <Url
+      Source="Output/Sarah_Eager/Temporary/PDF/Vegetarian/Vegetarian_65B11C62/Resources/Images/Backmatter-Heading-Background.png" />
+    <Url
+      Source="Output/Sarah_Eager/Temporary/PDF/Vegetarian/Vegetarian_65B11C62/Resources/Images/Dashi.jpg" />
+    <Url
+      Source="Output/Sarah_Eager/Temporary/PDF/Vegetarian/Vegetarian_65B11C62/Resources/Images/Vegetable-Stock.jpg" />
+    <Url
+      Source="Output/Sarah_Eager/Temporary/PDF/Vegetarian/Vegetarian_65B11C62/Resources/Images/Ramen.jpg" />
+    <Url
+      Source="Output/Sarah_Eager/Temporary/PDF/Vegetarian/Vegetarian_65B11C62/Resources/Images/maxresdefault.jpg" />
+    <Url
+      Source="Output/Sarah_Eager/Temporary/PDF/Vegetarian/Vegetarian_65B11C62/Resources/Images/Miso-Ramen-Chicken.jpg" />
+    <Url
+      Source="Output/Sarah_Eager/Temporary/PDF/Vegetarian/Vegetarian_65B11C62/Resources/TableStyles/Grid.css" />
+    <Url
+      Source="Output/Sarah_Eager/Temporary/PDF/Vegetarian/Vegetarian_65B11C62/Resources/Images/rice-cooker.jpg" />
+    <Url
+      Source="Output/Sarah_Eager/Temporary/PDF/Vegetarian/Vegetarian_65B11C62/Resources/Images/Castella-Cake.jpg" />
+    <Url
+      Source="Output/Sarah_Eager/Temporary/PDF/Vegetarian/Vegetarian_65B11C62/Resources/Images/rice.jpg" />
+    <Url
+      Source="Output/Sarah_Eager/Temporary/PDF/Vegetarian/Vegetarian_65B11C62/Resources/Images/Ramen-eggs.jpg" />
+    <Url
+      Source="Output/Sarah_Eager/Temporary/PDF/Vegetarian/Vegetarian_65B11C62/Resources/Images/Takoyaki.jpg" />
+    <Url
+      Source="Output/Sarah_Eager/PDF/Vegetarian/Vegetarian.pdf" />
+    <Url
+      Source="Output/Sarah_Eager/Temporary/PDF/Vegetarian/Vegetarian_65B11C62/Resources/Images/Plus.png" />
+    <Url
+      Source="Output/Sarah_Eager/Temporary/PDF/Vegetarian/Vegetarian_65B11C62/Resources/Images/123.jpg" />
+    <Url
+      Source="Output/Sarah_Eager/Temporary/PDF/Vegetarian/Vegetarian_65B11C62/Resources/Images/Noodles.jpg" />
+    <Url
+      Source="Output/Sarah_Eager/Temporary/PDF/Vegetarian/Vegetarian_65B11C62/Resources/Images/Donabe2.jpg" />
+  </Files>
+  <Skins />
+</CatapultTargetOutput>

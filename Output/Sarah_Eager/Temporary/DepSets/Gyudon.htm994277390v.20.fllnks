@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="Gyudon"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/TableStyles/Ingredients.css" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+    <Link
+      Url="Content/Common/Dashi.htm" />
+    <Link
+      Url="Content/Sides/Ramen egg.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/TableStyles/Ingredients.css" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+    <Link
+      Url="Content/Common/Dashi.htm" />
+    <Link
+      Url="Content/Sides/Ramen egg.htm" />
+  </LongLinks>
+  <Anchors />
+  <Keywords>
+    <IndexCacheEntry
+      Term="Dashi"
+      Conditions=""
+      LocalConditions=""
+      Position="34" />
+    <IndexCacheEntry
+      Term="Mirin"
+      Conditions=""
+      LocalConditions=""
+      Position="42" />
+    <IndexCacheEntry
+      Term="Sake"
+      Conditions=""
+      LocalConditions=""
+      Position="48" />
+    <IndexCacheEntry
+      Term="Soy sauce"
+      Conditions=""
+      LocalConditions=""
+      Position="54" />
+    <IndexCacheEntry
+      Term="Miso"
+      Conditions=""
+      LocalConditions=""
+      Position="59" />
+    <IndexCacheEntry
+      Term="Spring onion"
+      Conditions=""
+      LocalConditions=""
+      Position="97" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="Default.PrintOnly" />
+    <Condition
+      Tag="Default.NotA5Print" />
+    <Condition
+      Tag="Default.ScreenOnly" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/TableStyles/Ingredients.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

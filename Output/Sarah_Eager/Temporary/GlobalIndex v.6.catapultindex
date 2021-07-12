@@ -1,0 +1,976 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlobalIndex
+  SavedSource="file:///C:/FlareProject/Output/Sarah_Eager/Temporary/GlobalIndex v.6.catapultindex">
+  <IndexEntry>
+    <Entries>
+      <IndexEntry
+        Term="Aonori">
+        <Entries />
+        <Links>
+          <IndexLink
+            Link="Street food/Okonomiyaki.htm"
+            UsedConditions=""
+            LocalConditions="" />
+          <IndexLink
+            Link="Street food/Takoyaki.htm"
+            UsedConditions=""
+            LocalConditions="" />
+        </Links>
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+      <IndexEntry
+        Term="Aubergine">
+        <Entries />
+        <Links>
+          <IndexLink
+            Link="Common/Snippets/Curry-Ingredients.flsnp"
+            UsedConditions=""
+            LocalConditions="" />
+        </Links>
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+      <IndexEntry
+        Term="Bonito">
+        <Entries />
+        <Links>
+          <IndexLink
+            Link="Common/Dashi.htm"
+            UsedConditions="Ingredients.Non-Vegetarian"
+            LocalConditions="" />
+          <IndexLink
+            Link="Street food/Okonomiyaki.htm"
+            UsedConditions=""
+            LocalConditions="" />
+          <IndexLink
+            Link="Street food/Takoyaki.htm"
+            UsedConditions="Ingredients.Non-Vegetarian"
+            LocalConditions="" />
+        </Links>
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+      <IndexEntry
+        Term="Cabbage">
+        <Entries />
+        <Links>
+          <IndexLink
+            Link="Common/Vegetable Stock.htm"
+            UsedConditions=""
+            LocalConditions="" />
+          <IndexLink
+            Link="Street food/Okonomiyaki.htm"
+            UsedConditions=""
+            LocalConditions="" />
+        </Links>
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+      <IndexEntry
+        Term="Chicken breast">
+        <Entries />
+        <Links>
+          <IndexLink
+            Link="Soups/Miso ramen.htm"
+            UsedConditions="Ingredients.Non-Vegetarian"
+            LocalConditions="" />
+        </Links>
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+      <IndexEntry
+        Term="Chicken stock">
+        <Entries />
+        <Links>
+          <IndexLink
+            Link="Soups/Miso ramen.htm"
+            UsedConditions="Ingredients.Non-Vegetarian"
+            LocalConditions="" />
+        </Links>
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+      <IndexEntry
+        Term="Chicken wings">
+        <Entries />
+        <Links>
+          <IndexLink
+            Link="Common/Chicken Stock.htm"
+            UsedConditions=""
+            LocalConditions="" />
+          <IndexLink
+            Link="Common/Chicken Stock.htm"
+            UsedConditions="Default.Hidden"
+            LocalConditions="" />
+        </Links>
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+      <IndexEntry
+        Term="Dashi">
+        <Entries />
+        <Links>
+          <IndexLink
+            Link="Common/Snippets/Curry-Ingredients.flsnp"
+            UsedConditions=""
+            LocalConditions="" />
+          <IndexLink
+            Link="Main/Gyudon.htm"
+            UsedConditions=""
+            LocalConditions="" />
+          <IndexLink
+            Link="Sides/Tamagoyaki.htm"
+            UsedConditions=""
+            LocalConditions="" />
+          <IndexLink
+            Link="Soups/Miso soup.htm"
+            UsedConditions=""
+            LocalConditions="" />
+          <IndexLink
+            Link="Street food/Okonomiyaki.htm"
+            UsedConditions=""
+            LocalConditions="" />
+          <IndexLink
+            Link="Street food/Takoyaki.htm"
+            UsedConditions=""
+            LocalConditions="" />
+        </Links>
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+      <IndexEntry
+        Term="Egg">
+        <Entries />
+        <Links>
+          <IndexLink
+            Link="Sides/Ramen egg.htm"
+            UsedConditions=""
+            LocalConditions="" />
+          <IndexLink
+            Link="Soups/Miso ramen.htm"
+            UsedConditions=""
+            LocalConditions="" />
+        </Links>
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+      <IndexEntry
+        Term="Garlic">
+        <Entries />
+        <Links>
+          <IndexLink
+            Link="Common/Chicken Stock.htm"
+            UsedConditions=""
+            LocalConditions="" />
+          <IndexLink
+            Link="Common/Chicken Stock.htm"
+            UsedConditions="Default.Hidden"
+            LocalConditions="" />
+          <IndexLink
+            Link="Common/Snippets/Curry-Ingredients.flsnp"
+            UsedConditions=""
+            LocalConditions="" />
+          <IndexLink
+            Link="Common/Vegetable Stock.htm"
+            UsedConditions=""
+            LocalConditions="" />
+          <IndexLink
+            Link="Soups/Miso ramen.htm"
+            UsedConditions=""
+            LocalConditions="" />
+        </Links>
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+      <IndexEntry
+        Term="Ginger">
+        <Entries />
+        <Links>
+          <IndexLink
+            Link="Common/Chicken Stock.htm"
+            UsedConditions=""
+            LocalConditions="" />
+          <IndexLink
+            Link="Common/Chicken Stock.htm"
+            UsedConditions="Default.Hidden"
+            LocalConditions="" />
+          <IndexLink
+            Link="Common/Snippets/Curry-Ingredients.flsnp"
+            UsedConditions=""
+            LocalConditions="" />
+          <IndexLink
+            Link="Common/Vegetable Stock.htm"
+            UsedConditions=""
+            LocalConditions="" />
+          <IndexLink
+            Link="Soups/Miso ramen.htm"
+            UsedConditions=""
+            LocalConditions="" />
+        </Links>
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+      <IndexEntry
+        Term="Gochujang">
+        <Entries />
+        <Links>
+          <IndexLink
+            Link="Soups/Miso ramen.htm"
+            UsedConditions=""
+            LocalConditions="" />
+        </Links>
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+      <IndexEntry
+        Term="Kombu">
+        <Entries />
+        <Links>
+          <IndexLink
+            Link="Common/Dashi.htm"
+            UsedConditions=""
+            LocalConditions="" />
+          <IndexLink
+            Link="Common/Vegetable Stock.htm"
+            UsedConditions=""
+            LocalConditions="" />
+        </Links>
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+      <IndexEntry
+        Term="Mayonnaise">
+        <Entries />
+        <Links>
+          <IndexLink
+            Link="Street food/Okonomiyaki.htm"
+            UsedConditions=""
+            LocalConditions="" />
+          <IndexLink
+            Link="Street food/Takoyaki.htm"
+            UsedConditions=""
+            LocalConditions="" />
+        </Links>
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+      <IndexEntry
+        Term="Mirin">
+        <Entries />
+        <Links>
+          <IndexLink
+            Link="Main/Gyudon.htm"
+            UsedConditions=""
+            LocalConditions="" />
+          <IndexLink
+            Link="Sides/Ramen egg.htm"
+            UsedConditions=""
+            LocalConditions="" />
+        </Links>
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+      <IndexEntry
+        Term="Miso">
+        <Entries />
+        <Links>
+          <IndexLink
+            Link="Main/Gyudon.htm"
+            UsedConditions=""
+            LocalConditions="" />
+          <IndexLink
+            Link="Soups/Miso ramen.htm"
+            UsedConditions=""
+            LocalConditions="" />
+          <IndexLink
+            Link="Soups/Miso soup.htm"
+            UsedConditions=""
+            LocalConditions="" />
+        </Links>
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+      <IndexEntry
+        Term="Nori">
+        <Entries />
+        <Links>
+          <IndexLink
+            Link="Soups/Miso ramen.htm"
+            UsedConditions=""
+            LocalConditions="" />
+        </Links>
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+      <IndexEntry
+        Term="Pork">
+        <Entries />
+        <Links>
+          <IndexLink
+            Link="Soups/Miso ramen.htm"
+            UsedConditions="Ingredients.Non-Vegetarian"
+            LocalConditions="" />
+        </Links>
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+      <IndexEntry
+        Term="Sake">
+        <Entries />
+        <Links>
+          <IndexLink
+            Link="Common/Snippets/Curry-Ingredients.flsnp"
+            UsedConditions=""
+            LocalConditions="" />
+          <IndexLink
+            Link="Main/Gyudon.htm"
+            UsedConditions=""
+            LocalConditions="" />
+          <IndexLink
+            Link="Sides/Ramen egg.htm"
+            UsedConditions=""
+            LocalConditions="" />
+          <IndexLink
+            Link="Soups/Miso ramen.htm"
+            UsedConditions=""
+            LocalConditions="" />
+        </Links>
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+      <IndexEntry
+        Term="Scallion">
+        <Entries />
+        <Links>
+          <IndexLink
+            Link="Common/Chicken Stock.htm"
+            UsedConditions=""
+            LocalConditions="" />
+          <IndexLink
+            Link="Common/Chicken Stock.htm"
+            UsedConditions="Default.Hidden"
+            LocalConditions="" />
+          <IndexLink
+            Link="Sides/Fried rice.htm"
+            UsedConditions=""
+            LocalConditions="" />
+          <IndexLink
+            Link="Soups/Miso ramen.htm"
+            UsedConditions=""
+            LocalConditions="" />
+        </Links>
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+      <IndexEntry
+        Term="Sesame oil">
+        <Entries />
+        <Links>
+          <IndexLink
+            Link="Sides/Fried rice.htm"
+            UsedConditions=""
+            LocalConditions="" />
+          <IndexLink
+            Link="Soups/Miso ramen.htm"
+            UsedConditions=""
+            LocalConditions="" />
+        </Links>
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+      <IndexEntry
+        Term="Shiitake">
+        <Entries />
+        <Links>
+          <IndexLink
+            Link="Common/Chicken Stock.htm"
+            UsedConditions=""
+            LocalConditions="" />
+          <IndexLink
+            Link="Common/Chicken Stock.htm"
+            UsedConditions="Default.Hidden"
+            LocalConditions="" />
+          <IndexLink
+            Link="Common/Dashi.htm"
+            UsedConditions="Ingredients.Vegetarian"
+            LocalConditions="" />
+          <IndexLink
+            Link="Common/Vegetable Stock.htm"
+            UsedConditions=""
+            LocalConditions="" />
+        </Links>
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+      <IndexEntry
+        Term="Soy sauce">
+        <Entries />
+        <Links>
+          <IndexLink
+            Link="Common/Snippets/Curry-Ingredients.flsnp"
+            UsedConditions=""
+            LocalConditions="" />
+          <IndexLink
+            Link="Main/Gyudon.htm"
+            UsedConditions=""
+            LocalConditions="" />
+          <IndexLink
+            Link="Sides/Ramen egg.htm"
+            UsedConditions=""
+            LocalConditions="" />
+          <IndexLink
+            Link="Soups/Miso ramen.htm"
+            UsedConditions=""
+            LocalConditions="" />
+          <IndexLink
+            Link="Street food/Okonomiyaki.htm"
+            UsedConditions=""
+            LocalConditions="" />
+        </Links>
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+      <IndexEntry
+        Term="Spring onion">
+        <Entries />
+        <Links>
+          <IndexLink
+            Link="Common/Chicken Stock.htm"
+            UsedConditions=""
+            LocalConditions="" />
+          <IndexLink
+            Link="Common/Chicken Stock.htm"
+            UsedConditions="Default.Hidden"
+            LocalConditions="" />
+          <IndexLink
+            Link="Common/Vegetable Stock.htm"
+            UsedConditions=""
+            LocalConditions="" />
+          <IndexLink
+            Link="Main/Gyudon.htm"
+            UsedConditions=""
+            LocalConditions="" />
+          <IndexLink
+            Link="Sides/Fried rice.htm"
+            UsedConditions=""
+            LocalConditions="" />
+          <IndexLink
+            Link="Soups/Miso ramen.htm"
+            UsedConditions=""
+            LocalConditions="" />
+          <IndexLink
+            Link="Street food/Takoyaki.htm"
+            UsedConditions=""
+            LocalConditions="" />
+        </Links>
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+      <IndexEntry
+        Term="Squash">
+        <Entries />
+        <Links>
+          <IndexLink
+            Link="Common/Snippets/Curry-Ingredients.flsnp"
+            UsedConditions=""
+            LocalConditions="" />
+        </Links>
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+      <IndexEntry
+        Term="Tenkasu">
+        <Entries />
+        <Links>
+          <IndexLink
+            Link="Street food/Okonomiyaki.htm"
+            UsedConditions=""
+            LocalConditions="" />
+          <IndexLink
+            Link="Street food/Takoyaki.htm"
+            UsedConditions=""
+            LocalConditions="" />
+        </Links>
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+      <IndexEntry
+        Term="Tofu">
+        <Entries />
+        <Links>
+          <IndexLink
+            Link="Common/Snippets/Curry-Ingredients.flsnp"
+            UsedConditions=""
+            LocalConditions="" />
+          <IndexLink
+            Link="Soups/Miso ramen.htm"
+            UsedConditions=""
+            LocalConditions="" />
+          <IndexLink
+            Link="Soups/Miso soup.htm"
+            UsedConditions=""
+            LocalConditions="" />
+          <IndexLink
+            Link="Street food/Okonomiyaki.htm"
+            UsedConditions="Ingredients.Vegetarian"
+            LocalConditions="" />
+        </Links>
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+      <IndexEntry
+        Term="Vegetable stock">
+        <Entries />
+        <Links>
+          <IndexLink
+            Link="Soups/Miso ramen.htm"
+            UsedConditions="Ingredients.Vegetarian"
+            LocalConditions="" />
+        </Links>
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+      <IndexEntry
+        Term="Western">
+        <Entries />
+        <Links>
+          <IndexLink
+            Link="Common/Snippets/Curry.flsnp"
+            UsedConditions=""
+            LocalConditions="" />
+        </Links>
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+      <IndexEntry
+        Term="Xantham gum">
+        <Entries />
+        <Links>
+          <IndexLink
+            Link="Baking/Shokupan.htm"
+            UsedConditions="Ingredients.Gluten free"
+            LocalConditions="" />
+          <IndexLink
+            Link="Common/Ramen noodles.htm"
+            UsedConditions="Ingredients.Gluten free"
+            LocalConditions="" />
+        </Links>
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+      <IndexEntry
+        Term="Yoshoku">
+        <Entries />
+        <Links>
+          <IndexLink
+            Link="Common/Snippets/Curry.flsnp"
+            UsedConditions=""
+            LocalConditions="" />
+        </Links>
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+    </Entries>
+    <Links />
+    <SeeAlsoLinks />
+    <IndexControlLinks />
+    <SortAsLinks />
+  </IndexEntry>
+  <SourceUrls>
+    <Url
+      Source="Baking/Baking.htm" />
+    <Url
+      Source="Baking/Bread.htm" />
+    <Url
+      Source="Baking/Castella cake.htm" />
+    <Url
+      Source="Baking/Desserts.htm" />
+    <Url
+      Source="Baking/Noodles.htm" />
+    <Url
+      Source="Baking/Shokupan.htm" />
+    <Url
+      Source="Baking/Shokupan.pdf" />
+    <Url
+      Source="Baking/Sweets.htm" />
+    <Url
+      Source="Baking/Taiyaki.htm" />
+    <Url
+      Source="Common/Chicken Stock.htm" />
+    <Url
+      Source="Common/Cookware.htm" />
+    <Url
+      Source="Common/Dashi.htm" />
+    <Url
+      Source="Common/Donabe.htm" />
+    <Url
+      Source="Common/Essentials.htm" />
+    <Url
+      Source="Common/Ramen noodles.htm" />
+    <Url
+      Source="Common/Rice cooker.htm" />
+    <Url
+      Source="Common/Takoyaki pan.htm" />
+    <Url
+      Source="Common/Tamagoyaki pan.htm" />
+    <Url
+      Source="Common/Vegetable Stock.htm" />
+    <Url
+      Source="Common/Snippets/Curry-Cooktime.flsnp" />
+    <Url
+      Source="Common/Snippets/Curry-Ingredients.flsnp" />
+    <Url
+      Source="Common/Snippets/Curry-SpiceMix.flsnp" />
+    <Url
+      Source="Common/Snippets/Curry.flsnp" />
+    <Url
+      Source="Common/Snippets/Dashi.flsnp" />
+    <Url
+      Source="Common/Snippets/Donabe recipes.flsnp" />
+    <Url
+      Source="Common/Snippets/Donabe.flsnp" />
+    <Url
+      Source="Common/Snippets/Download-PDF.flsnp" />
+    <Url
+      Source="Common/Snippets/Rice cooker.flsnp" />
+    <Url
+      Source="Common/Snippets/SpiceMix-Steps.flsnp" />
+    <Url
+      Source="Common/Snippets/Takoyaki pan.flsnp" />
+    <Url
+      Source="Common/Snippets/Tamagoyaki-pan.flsnp" />
+    <Url
+      Source="Frontmatter/Glossary.htm" />
+    <Url
+      Source="Frontmatter/Glossary1.htm" />
+    <Url
+      Source="Frontmatter/Home.htm" />
+    <Url
+      Source="Frontmatter/Index.htm" />
+    <Url
+      Source="Frontmatter/Introduction.htm" />
+    <Url
+      Source="Frontmatter/Mini-TOC.htm" />
+    <Url
+      Source="Frontmatter/Spacer.htm" />
+    <Url
+      Source="Frontmatter/Title.htm" />
+    <Url
+      Source="Frontmatter/TOC.htm" />
+    <Url
+      Source="Main/Gyudon.htm" />
+    <Url
+      Source="Main/Main.htm" />
+    <Url
+      Source="Resources/Images/123.jpg" />
+    <Url
+      Source="Resources/Images/12eb6bf3aebfc7a7be6ae793a10d640f.jpg" />
+    <Url
+      Source="Resources/Images/Backmatter-Heading-Background.png" />
+    <Url
+      Source="Resources/Images/Bread.jpg" />
+    <Url
+      Source="Resources/Images/Castella-Cake.jpg" />
+    <Url
+      Source="Resources/Images/Chicken-Stock.jpg" />
+    <Url
+      Source="Resources/Images/Cstock.jpg" />
+    <Url
+      Source="Resources/Images/Cstock1.jpg" />
+    <Url
+      Source="Resources/Images/Curry-Chicken.jpg" />
+    <Url
+      Source="Resources/Images/Curry-Vegetable.jpg" />
+    <Url
+      Source="Resources/Images/Curry-Vegetarian.jpg" />
+    <Url
+      Source="Resources/Images/Curry.jpg" />
+    <Url
+      Source="Resources/Images/dashi-2.jpg" />
+    <Url
+      Source="Resources/Images/dashi.jpeg" />
+    <Url
+      Source="Resources/Images/Dashi.jpg" />
+    <Url
+      Source="Resources/Images/Desserts.jpg" />
+    <Url
+      Source="Resources/Images/Desserts.webp" />
+    <Url
+      Source="Resources/Images/Donabe.jpg" />
+    <Url
+      Source="Resources/Images/Donabe2.jpg" />
+    <Url
+      Source="Resources/Images/gyudon.jpg" />
+    <Url
+      Source="Resources/Images/Hero-Image-Print.png" />
+    <Url
+      Source="Resources/Images/Hero-Image.png" />
+    <Url
+      Source="Resources/Images/Icon-Checkbox.png" />
+    <Url
+      Source="Resources/Images/Icon-Download.png" />
+    <Url
+      Source="Resources/Images/Icon-Forum.png" />
+    <Url
+      Source="Resources/Images/Icon-Gears.png" />
+    <Url
+      Source="Resources/Images/Icon-PDFs.png" />
+    <Url
+      Source="Resources/Images/Icon-Popular-Topics.png" />
+    <Url
+      Source="Resources/Images/Icon-Videos.png" />
+    <Url
+      Source="Resources/Images/Image-Introduction.png" />
+    <Url
+      Source="Resources/Images/Image-Step-1.png" />
+    <Url
+      Source="Resources/Images/Image-Step-2.png" />
+    <Url
+      Source="Resources/Images/Image-Step-3.png" />
+    <Url
+      Source="Resources/Images/Logo.eps" />
+    <Url
+      Source="Resources/Images/Logo.png" />
+    <Url
+      Source="Resources/Images/maxresdefault.jpg" />
+    <Url
+      Source="Resources/Images/Minus.png" />
+    <Url
+      Source="Resources/Images/Miso-Ramen-Chicken.jpg" />
+    <Url
+      Source="Resources/Images/Miso-Ramen-Vegan.jpg" />
+    <Url
+      Source="Resources/Images/Miso-soup.jpg" />
+    <Url
+      Source="Resources/Images/Noodles.jpg" />
+    <Url
+      Source="Resources/Images/Okonomiyaki.jpg" />
+    <Url
+      Source="Resources/Images/Osaka.jpg" />
+    <Url
+      Source="Resources/Images/Plus.png" />
+    <Url
+      Source="Resources/Images/Quote.png" />
+    <Url
+      Source="Resources/Images/ramen-eggs.jpg" />
+    <Url
+      Source="Resources/Images/Ramen-logo.png" />
+    <Url
+      Source="Resources/Images/Ramen-Vegan.jpg" />
+    <Url
+      Source="Resources/Images/Ramen.jpg" />
+    <Url
+      Source="Resources/Images/rice-cooker.jpg" />
+    <Url
+      Source="Resources/Images/Rice.jpg" />
+    <Url
+      Source="Resources/Images/Ricebowl.jpg" />
+    <Url
+      Source="Resources/Images/Shokupan.jpg" />
+    <Url
+      Source="Resources/Images/Soup.jpg" />
+    <Url
+      Source="Resources/Images/Sweets.jpeg" />
+    <Url
+      Source="Resources/Images/Taiyaki.jpg" />
+    <Url
+      Source="Resources/Images/Takoyaki.jpg" />
+    <Url
+      Source="Resources/Images/takoyakipan.jpg" />
+    <Url
+      Source="Resources/Images/Tamago.jpg" />
+    <Url
+      Source="Resources/Images/tamagoyaki.jpg" />
+    <Url
+      Source="Resources/Images/tamagoyakipan.jpg" />
+    <Url
+      Source="Resources/Images/Tip.jpg" />
+    <Url
+      Source="Resources/Images/Tips.png" />
+    <Url
+      Source="Resources/Images/Transparent.png" />
+    <Url
+      Source="Resources/Images/Vegetable-Stock.jpg" />
+    <Url
+      Source="Resources/Images/Yakimeshi.jpg" />
+    <Url
+      Source="Resources/MasterPages/123.flmsp" />
+    <Url
+      Source="Resources/MasterPages/Other-Topics.flmsp" />
+    <Url
+      Source="Resources/PageLayouts/A4-Chapter.flpgl" />
+    <Url
+      Source="Resources/PageLayouts/A4-Frontmatter.flpgl" />
+    <Url
+      Source="Resources/PageLayouts/A4-Glossary.flpgl" />
+    <Url
+      Source="Resources/PageLayouts/A4-Index.flpgl" />
+    <Url
+      Source="Resources/PageLayouts/A4-Layout.flpgl" />
+    <Url
+      Source="Resources/PageLayouts/A4-Subtopic.flpgl" />
+    <Url
+      Source="Resources/PageLayouts/A4-Title.flpgl" />
+    <Url
+      Source="Resources/PageLayouts/A4-TOC.flpgl" />
+    <Url
+      Source="Resources/PageLayouts/Spacer1.flpgl" />
+    <Url
+      Source="Resources/PageLayouts/A5/Booklet-body.flpgl" />
+    <Url
+      Source="Resources/PageLayouts/A5/Booklet-frontmatter.flpgl" />
+    <Url
+      Source="Resources/PageLayouts/A5/Booklet-index.flpgl" />
+    <Url
+      Source="Resources/Snippets/Miso-note.flsnp" />
+    <Url
+      Source="Resources/Snippets/Miso-ShortDesc.flsnp" />
+    <Url
+      Source="Resources/Snippets/Peel-ginger.flsnp" />
+    <Url
+      Source="Resources/Snippets/WhatYouNeed.flsnp" />
+    <Url
+      Source="Resources/Stylesheets/NewStylesheet.css" />
+    <Url
+      Source="Resources/Stylesheets/Styles.css" />
+    <Url
+      Source="Resources/Stylesheets/StylesOriginal.css" />
+    <Url
+      Source="Resources/TableStyles/Alternate-Row-Color.css" />
+    <Url
+      Source="Resources/TableStyles/Grid.css" />
+    <Url
+      Source="Resources/TableStyles/Ingredients.css" />
+    <Url
+      Source="Resources/TableStyles/RecipeInfo.css" />
+    <Url
+      Source="Sides/Eggs.htm" />
+    <Url
+      Source="Sides/Fried rice.htm" />
+    <Url
+      Source="Sides/Ramen egg.htm" />
+    <Url
+      Source="Sides/Rice.htm" />
+    <Url
+      Source="Sides/Sides.htm" />
+    <Url
+      Source="Sides/Steamed rice.htm" />
+    <Url
+      Source="Sides/Tamagoyaki.htm" />
+    <Url
+      Source="Snacks/Snacks.htm" />
+    <Url
+      Source="Soups/Chicken curry.htm" />
+    <Url
+      Source="Soups/Chicken curry.pdf" />
+    <Url
+      Source="Soups/Curry.htm" />
+    <Url
+      Source="Soups/Miso ramen.htm" />
+    <Url
+      Source="Soups/Miso Ramen.pdf" />
+    <Url
+      Source="Soups/Miso soup.htm" />
+    <Url
+      Source="Soups/Ramen.htm" />
+    <Url
+      Source="Soups/Soup.htm" />
+    <Url
+      Source="Soups/Soups and stews.htm" />
+    <Url
+      Source="Soups/Vegetable curry.htm" />
+    <Url
+      Source="Soups/Vegetable curry.pdf" />
+    <Url
+      Source="Street food/Okonomiyaki.htm" />
+    <Url
+      Source="Street food/Osaka.htm" />
+    <Url
+      Source="Street food/Rice bowls.htm" />
+    <Url
+      Source="Street food/Street food.htm" />
+    <Url
+      Source="Street food/Takoyaki.htm" />
+  </SourceUrls>
+  <SourceLinkSetUrls />
+  <UsedUrls>
+    <Url
+      Source="Common/Ramen noodles.htm"
+      Terms="Xantham gum | Ingredients.Gluten free |  [54]" />
+    <Url
+      Source="Baking/Shokupan.htm"
+      Terms="Xantham gum | Ingredients.Gluten free |  [87]" />
+    <Url
+      Source="Common/Vegetable Stock.htm"
+      Terms="Cabbage;Ginger;Garlic;Spring onion;Kombu;Shiitake" />
+    <Url
+      Source="Common/Snippets/Curry.flsnp"
+      Terms="Yoshoku;Western" />
+    <Url
+      Source="Main/Gyudon.htm"
+      Terms="Dashi;Mirin;Sake;Soy sauce;Miso;Spring onion" />
+    <Url
+      Source="Sides/Ramen egg.htm"
+      Terms="Egg;Mirin;Soy sauce;Sake" />
+    <Url
+      Source="Street food/Okonomiyaki.htm"
+      Terms="Dashi;Soy sauce;Cabbage;Tenkasu;Tofu | Ingredients.Vegetarian |  [109];Bonito;Aonori;Mayonnaise" />
+    <Url
+      Source="Common/Snippets/Curry-Ingredients.flsnp"
+      Terms="Garlic;Ginger;Squash;Aubergine;Tofu;Soy sauce;Dashi;Sake" />
+    <Url
+      Source="Soups/Miso soup.htm"
+      Terms="Dashi;Tofu;Miso" />
+    <Url
+      Source="Common/Dashi.htm"
+      Terms="Kombu;Bonito | Ingredients.Non-Vegetarian |  [56];Shiitake | Ingredients.Vegetarian |  [65]" />
+    <Url
+      Source="Soups/Miso ramen.htm"
+      Terms="Sesame oil;Garlic;Ginger;Spring onion;Scallion;Pork | Ingredients.Non-Vegetarian |  [83];Gochujang;Miso;Sake;Chicken stock | Ingredients.Non-Vegetarian |  [119];Vegetable stock | Ingredients.Vegetarian |  [124];Soy sauce;Nori;Egg;Tofu;Chicken breast | Ingredients.Non-Vegetarian |  [190]" />
+    <Url
+      Source="Common/Chicken Stock.htm"
+      Terms="Chicken wings;Spring onion;Scallion;Ginger;Garlic;Shiitake;Chicken wings | Default.Hidden |  [89];Spring onion | Default.Hidden |  [103];Scallion | Default.Hidden |  [103];Ginger | Default.Hidden |  [109];Garlic | Default.Hidden |  [114];Shiitake | Default.Hidden |  [120]" />
+    <Url
+      Source="Sides/Fried rice.htm"
+      Terms="Sesame oil;Spring onion;Scallion" />
+    <Url
+      Source="Sides/Tamagoyaki.htm"
+      Terms="Dashi" />
+    <Url
+      Source="Street food/Takoyaki.htm"
+      Terms="Dashi;Tenkasu;Spring onion;Mayonnaise;Bonito | Ingredients.Non-Vegetarian |  [115];Aonori" />
+  </UsedUrls>
+  <UsedIndexControlUrls />
+</CatapultGlobalIndex>

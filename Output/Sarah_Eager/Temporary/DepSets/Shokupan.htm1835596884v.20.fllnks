@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="Shokupan"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/TableStyles/RecipeInfo.css" />
+    <Link
+      Url="Content/Resources/TableStyles/Ingredients.css" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+    <Link
+      Url="Content/Resources/Images/Shokupan.jpg" />
+    <Link
+      Url="Project/ConditionTagSets/Ingredients.flcts" />
+    <Link
+      Url="Content/Baking/Shokupan.pdf" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/TableStyles/RecipeInfo.css" />
+    <Link
+      Url="Content/Resources/TableStyles/Ingredients.css" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+    <Link
+      Url="Content/Resources/Images/Shokupan.jpg" />
+    <Link
+      Url="Project/ConditionTagSets/Ingredients.flcts" />
+    <Link
+      Url="Content/Baking/Shokupan.pdf" />
+  </LongLinks>
+  <Anchors />
+  <Keywords>
+    <IndexCacheEntry
+      Term="Xantham gum"
+      Conditions="Ingredients.Gluten free"
+      LocalConditions=""
+      Position="87" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="Default.NotA5Print" />
+    <Condition
+      Tag="Default.Hidden" />
+    <Condition
+      Tag="Default.ScreenOnly" />
+    <Condition
+      Tag="Ingredients.Gluten free" />
+    <Condition
+      Tag="Ingredients.Not-DF" />
+    <Condition
+      Tag="Ingredients.Dairy free" />
+    <Condition
+      Tag="Default.A5only" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/TableStyles/RecipeInfo.css" />
+    <Url
+      Source="Content/Resources/TableStyles/Ingredients.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

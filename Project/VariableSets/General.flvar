@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet
+  conditions="">
+  <Variable
+    Name="Title"
+    Comment=""
+    Definition="Some text"
+    EvaluatedDefinition="Title">Title</Variable>
+  <Variable
+    Name="Version"
+    OriginalName="VersionNumberDot">1.0</Variable>
+  <Variable
+    Name="Book"
+    Comment=""
+    EvaluatedDefinition=""></Variable>
+  <Variable
+    Name="Recipe Type"
+    Comment=""
+    EvaluatedDefinition="" />
+  <Variable
+    Name="TitleLower"
+    Comment=""
+    EvaluatedDefinition=""></Variable>
+</CatapultVariableSet>

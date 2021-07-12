@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../../Resources/TableStyles/Ingredients.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <table style="width: 100%;mc-table-style: url('../../Resources/TableStyles/Ingredients.css');" class="TableStyle-Ingredients" cellspacing="0">
+            <col class="TableStyle-Ingredients-Column-Column1" />
+            <col class="TableStyle-Ingredients-Column-Column1" />
+            <tbody>
+                <tr class="TableStyle-Ingredients-Body-Body1">
+                    <td class="TableStyle-Ingredients-BodyE-Column1-Body1">
+                        <ul>
+                            <li>
+                                <p class="tbody">2 Tbsp coriander</p>
+                            </li>
+                        </ul>
+                    </td>
+                    <td class="TableStyle-Ingredients-BodyD-Column1-Body1">
+                        <ul>
+                            <li>
+                                <p class="tbody">3 Tbsp cumin</p>
+                            </li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Ingredients-Body-Body1">
+                    <td class="TableStyle-Ingredients-BodyE-Column1-Body1">
+                        <ul>
+                            <li>
+                                <p class="tbody">1/2 Tbsp fenugreek</p>
+                            </li>
+                        </ul>
+                    </td>
+                    <td class="TableStyle-Ingredients-BodyD-Column1-Body1">
+                        <ul>
+                            <li>
+                                <p class="tbody">3 tsp cardamom</p>
+                            </li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Ingredients-Body-Body1">
+                    <td class="TableStyle-Ingredients-BodyE-Column1-Body1">
+                        <ul>
+                            <li>
+                                <p class="tbody">3 tsp black pepper</p>
+                            </li>
+                        </ul>
+                    </td>
+                    <td class="TableStyle-Ingredients-BodyD-Column1-Body1">
+                        <ul>
+                            <li>
+                                <p class="tbody">1/2 tsp fennel</p>
+                            </li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Ingredients-Body-Body1">
+                    <td class="TableStyle-Ingredients-BodyE-Column1-Body1">
+                        <ul>
+                            <li>
+                                <p class="tbody">1 cinnamon stick</p>
+                            </li>
+                        </ul>
+                    </td>
+                    <td class="TableStyle-Ingredients-BodyD-Column1-Body1">
+                        <ul>
+                            <li>
+                                <p class="tbody">2 cloves</p>
+                            </li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Ingredients-Body-Body1">
+                    <td class="TableStyle-Ingredients-BodyE-Column1-Body1">
+                        <ul>
+                            <li>
+                                <p class="tbody">2 star anise</p>
+                            </li>
+                        </ul>
+                    </td>
+                    <td class="TableStyle-Ingredients-BodyD-Column1-Body1">
+                        <ul>
+                            <li>
+                                <p class="tbody">2 Tbsp turmeric</p>
+                            </li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Ingredients-Body-Body1">
+                    <td class="TableStyle-Ingredients-BodyE-Column1-Body1">
+                        <ul>
+                            <li>
+                                <p class="tbody">3 tsp chilli powder</p>
+                            </li>
+                        </ul>
+                    </td>
+                    <td class="TableStyle-Ingredients-BodyD-Column1-Body1">
+                        <ul>
+                            <li>
+                                <p class="tbody">1/4 tsp nutmeg</p>
+                            </li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Ingredients-Body-Body1">
+                    <td class="TableStyle-Ingredients-BodyB-Column1-Body1">
+                        <ul>
+                            <li>
+                                <p class="tbody">1/4 tsp paprika</p>
+                            </li>
+                        </ul>
+                    </td>
+                    <td class="TableStyle-Ingredients-BodyA-Column1-Body1">
+                        <ul>
+                            <li>
+                                <p class="tbody">1/2 piece ginger</p>
+                            </li>
+                        </ul>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

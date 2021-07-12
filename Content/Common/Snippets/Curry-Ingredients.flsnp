@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../../Resources/TableStyles/Ingredients.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <table style="width: 100%;mc-table-style: url('../../Resources/TableStyles/Ingredients.css');" class="TableStyle-Ingredients" cellspacing="0">
+            <col class="TableStyle-Ingredients-Column-Column1" />
+            <col class="TableStyle-Ingredients-Column-Column1" />
+            <tbody>
+                <tr class="TableStyle-Ingredients-Body-Body1">
+                    <td class="TableStyle-Ingredients-BodyE-Column1-Body1">
+                        <ul>
+                            <li>
+                                <p class="tbody">2 Tbsp vegetable oil</p>
+                            </li>
+                        </ul>
+                    </td>
+                    <td class="TableStyle-Ingredients-BodyD-Column1-Body1">
+                        <ul>
+                            <li>
+                                <p class="tbody">2 <MadCap:keyword term="Garlic" />garlic cloves</p>
+                            </li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Ingredients-Body-Body1">
+                    <td class="TableStyle-Ingredients-BodyE-Column1-Body1">
+                        <ul>
+                            <li>
+                                <p class="tbody">1 piece of <MadCap:keyword term="Ginger" />ginger</p>
+                            </li>
+                        </ul>
+                    </td>
+                    <td class="TableStyle-Ingredients-BodyD-Column1-Body1">
+                        <ul>
+                            <li>
+                                <p class="tbody">1 onion</p>
+                            </li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Ingredients-Body-Body1">
+                    <td class="TableStyle-Ingredients-BodyE-Column1-Body1">
+                        <ul>
+                            <li>
+                                <p class="tbody">2 carrots</p>
+                            </li>
+                        </ul>
+                    </td>
+                    <td class="TableStyle-Ingredients-BodyD-Column1-Body1">
+                        <ul>
+                            <li>
+                                <p class="tbody">2 potatoes</p>
+                            </li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Ingredients-Body-Body1">
+                    <td class="TableStyle-Ingredients-BodyE-Column1-Body1">
+                        <ul>
+                            <li>
+                                <p class="tbody">1/4 <MadCap:keyword term="Squash" />butternut squash</p>
+                            </li>
+                        </ul>
+                    </td>
+                    <td class="TableStyle-Ingredients-BodyD-Column1-Body1">
+                        <ul>
+                            <li>
+                                <p class="tbody">1/2 <MadCap:keyword term="Aubergine" />aubergine</p>
+                            </li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Ingredients-Body-Body1">
+                    <td class="TableStyle-Ingredients-BodyE-Column1-Body1">
+                        <ul>
+                            <li>
+                                <p class="tbody">10 mushrooms</p>
+                            </li>
+                        </ul>
+                    </td>
+                    <td class="TableStyle-Ingredients-BodyD-Column1-Body1">
+                        <ul>
+                            <li>
+                                <p class="tbody">1 package <MadCap:keyword term="Tofu" /><MadCap:glossaryTerm glossTerm="Glossary.Term12">tofu</MadCap:glossaryTerm> (optional)</p>
+                            </li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Ingredients-Body-Body1">
+                    <td class="TableStyle-Ingredients-BodyE-Column1-Body1">
+                        <ul>
+                            <li>
+                                <p class="tbody" MadCap:conditions="Ingredients.Vegetarian">1 liter vegetable stock<MadCap:conditionalText MadCap:conditions="Default.NotA5Print,Default.ScreenOnly">, </MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Default.NotA5Print"><MadCap:xref href="../Vegetable Stock.htm" class="html">on page 1</MadCap:xref></MadCap:conditionalText><a href="../Vegetable Stock.htm" MadCap:conditions="Default.Mobile,Default.ScreenOnly,Default.Tablet,Default.Web">see vegetable stock</a></p>
+                                <p class="tbody" MadCap:conditions="Ingredients.Non-Vegetarian">1 liter chicken stock<MadCap:conditionalText MadCap:conditions="Default.NotA5Print">, </MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Default.NotA5Print"><MadCap:xref href="../Chicken Stock.htm" class="html">on page 1</MadCap:xref></MadCap:conditionalText><a href="../Chicken Stock.htm" MadCap:conditions="Default.Mobile,Default.ScreenOnly,Default.Tablet,Default.Web">see chicken stock</a></p>
+                            </li>
+                        </ul>
+                    </td>
+                    <td class="TableStyle-Ingredients-BodyD-Column1-Body1">
+                        <ul>
+                            <li>
+                                <p class="tbody">1/2 apple</p>
+                            </li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Ingredients-Body-Body1">
+                    <td class="TableStyle-Ingredients-BodyE-Column1-Body1">
+                        <ul>
+                            <li>
+                                <p class="tbody">1.5 Tbsp honey</p>
+                            </li>
+                        </ul>
+                    </td>
+                    <td class="TableStyle-Ingredients-BodyD-Column1-Body1">
+                        <ul>
+                            <li>
+                                <p class="tbody">2.5 Tbsp <MadCap:keyword term="Soy sauce" />soy sauce</p>
+                            </li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Ingredients-Body-Body1">
+                    <td class="TableStyle-Ingredients-BodyE-Column1-Body1">
+                        <ul>
+                            <li>
+                                <p class="tbody">1/2 liter <MadCap:keyword term="Dashi" /><MadCap:glossaryTerm glossTerm="Glossary.Term11">dashi</MadCap:glossaryTerm><MadCap:snippetText src="Dashi.flsnp" /></p>
+                            </li>
+                        </ul>
+                    </td>
+                    <td class="TableStyle-Ingredients-BodyD-Column1-Body1">
+                        <ul>
+                            <li>
+                                <p class="tbody">1/2 Tbsp <MadCap:glossaryTerm glossTerm="Glossary.Term13">sake</MadCap:glossaryTerm><MadCap:keyword term="Sake" /></p>
+                            </li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Ingredients-Body-Body1">
+                    <td class="TableStyle-Ingredients-BodyE-Column1-Body1">
+                        <ul>
+                            <li>
+                                <p class="tbody">50 g unsalted butter<MadCap:conditionalText MadCap:conditions="Ingredients.Dairy free,Ingredients.Free from">, or vegan alternative</MadCap:conditionalText></p>
+                            </li>
+                        </ul>
+                    </td>
+                    <td class="TableStyle-Ingredients-BodyD-Column1-Body1">
+                        <ul>
+                            <li>
+                                <p class="tbody">50 g plain flour</p>
+                            </li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Ingredients-Body-Body1">
+                    <td class="TableStyle-Ingredients-BodyB-Column1-Body1">
+                        <ul>
+                            <li>
+                                <p class="tbody">25 g spice mix or 1 package curry roux</p>
+                            </li>
+                        </ul>
+                    </td>
+                    <td class="TableStyle-Ingredients-BodyA-Column1-Body1">
+                        <p class="tbody">&#160;</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

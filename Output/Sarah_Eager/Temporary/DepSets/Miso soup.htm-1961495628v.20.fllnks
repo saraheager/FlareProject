@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="Miso soup"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/TableStyles/RecipeInfo.css" />
+    <Link
+      Url="Content/Resources/TableStyles/Ingredients.css" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+    <Link
+      Url="Content/Common/Snippets/Dashi.flsnp" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/TableStyles/RecipeInfo.css" />
+    <Link
+      Url="Content/Resources/TableStyles/Ingredients.css" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+    <Link
+      Url="Content/Common/Snippets/Dashi.flsnp" />
+  </LongLinks>
+  <Anchors />
+  <Keywords>
+    <IndexCacheEntry
+      Term="Dashi"
+      Conditions=""
+      LocalConditions=""
+      Position="45" />
+    <IndexCacheEntry
+      Term="Tofu"
+      Conditions=""
+      LocalConditions=""
+      Position="52" />
+    <IndexCacheEntry
+      Term="Miso"
+      Conditions=""
+      LocalConditions=""
+      Position="59" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="Default.ScreenOnly" />
+    <Condition
+      Tag="Default.PrintOnly" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/TableStyles/RecipeInfo.css" />
+    <Url
+      Source="Content/Resources/TableStyles/Ingredients.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

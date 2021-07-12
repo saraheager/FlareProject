@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../TableStyles/Ingredients.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <p class="subhead">What you'll need</p>
+        <table style="width: 100%;mc-table-style: url('../TableStyles/Ingredients.css');margin-left: auto;margin-right: auto;" class="TableStyle-Ingredients" cellspacing="0">
+            <col class="TableStyle-Ingredients-Column-Column1" />
+            <col class="TableStyle-Ingredients-Column-Column1" />
+            <tbody>
+                <tr class="TableStyle-Ingredients-Body-Body1">
+                    <td class="TableStyle-Ingredients-BodyE-Column1-Body1">
+                        <ul>
+                            <li>
+                                <p class="tbody">A large pot or donabe</p>
+                            </li>
+                        </ul>
+                    </td>
+                    <td class="TableStyle-Ingredients-BodyD-Column1-Body1">
+                        <ul>
+                            <li>
+                                <p class="tbody">Chopping board</p>
+                            </li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Ingredients-Body-Body1">
+                    <td class="TableStyle-Ingredients-BodyE-Column1-Body1">
+                        <ul>
+                            <li>
+                                <p class="tbody">Measuring jug</p>
+                            </li>
+                        </ul>
+                    </td>
+                    <td class="TableStyle-Ingredients-BodyD-Column1-Body1">
+                        <ul>
+                            <li>
+                                <p class="tbody">Small frying pan</p>
+                            </li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Ingredients-Body-Body1" MadCap:conditions="Ingredients.Chicken Curry,Ingredients.Vegetable curry">
+                    <td class="TableStyle-Ingredients-BodyB-Column1-Body1">
+                        <ul>
+                            <li>
+                                <p class="tbody">Spice grinder</p>
+                            </li>
+                        </ul>
+                    </td>
+                    <td class="TableStyle-Ingredients-BodyA-Column1-Body1">
+                        <p>&#160;</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

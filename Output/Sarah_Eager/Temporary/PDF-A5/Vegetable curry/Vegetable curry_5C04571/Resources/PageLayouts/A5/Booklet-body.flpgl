@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles MadCap:fileTags="../../Output/Sarah_Eager/Temporary/PDF-A5/Vegetable curry/Project/Advanced/Product Tags.CompactNVRAS3000" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <Page Name="Left" Width="800" Height="800" Padding="20px" PageSize="A5" PageType="left" PaddingLeft="0" PaddingRight="0" PaddingTop="0" PaddingBottom="0">
+        <Frame Flow="body" ColumnCount="1" Anchors="" PaddingLeft="0" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" X="17.99167mm" Y="12.96458mm" Right="76px" Bottom="86px" Width="11.00667cm" Height="17.43604cm">
+        </Frame>
+        <Frame Flow="footer" Anchors="" Right="0.4791667in" Bottom="13px" X="0.3229167in" Y="19.42042cm" ColumnCount="1" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" FlowIndex="1" Height="1.243542cm" VerticalAlign="middle" TextAlign="center" BorderTopStyle="solid" BorderTopWidth="3pt" BorderTopColor="#000000" Width="12.77938cm">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:head>
+                    </xhtml:head>
+                    <xhtml:body>
+                        <xhtml:p xhtml:style="text-align: left;">- <MadCap:variable xhtml:name="System.PageNumber" /> -</xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+    </Page>
+</PageStyles>

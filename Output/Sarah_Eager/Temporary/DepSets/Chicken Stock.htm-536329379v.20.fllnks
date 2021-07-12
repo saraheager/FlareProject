@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="Chicken stock"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/TableStyles/RecipeInfo.css" />
+    <Link
+      Url="Content/Resources/TableStyles/Ingredients.css" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/TableStyles/RecipeInfo.css" />
+    <Link
+      Url="Content/Resources/TableStyles/Ingredients.css" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+  </LongLinks>
+  <Anchors />
+  <Keywords>
+    <IndexCacheEntry
+      Term="Chicken wings"
+      Conditions=""
+      LocalConditions=""
+      Position="43" />
+    <IndexCacheEntry
+      Term="Spring onion"
+      Conditions=""
+      LocalConditions=""
+      Position="57" />
+    <IndexCacheEntry
+      Term="Scallion"
+      Conditions=""
+      LocalConditions=""
+      Position="57" />
+    <IndexCacheEntry
+      Term="Ginger"
+      Conditions=""
+      LocalConditions=""
+      Position="63" />
+    <IndexCacheEntry
+      Term="Garlic"
+      Conditions=""
+      LocalConditions=""
+      Position="68" />
+    <IndexCacheEntry
+      Term="Shiitake"
+      Conditions=""
+      LocalConditions=""
+      Position="74" />
+    <IndexCacheEntry
+      Term="Chicken wings"
+      Conditions="Default.Hidden"
+      LocalConditions=""
+      Position="89" />
+    <IndexCacheEntry
+      Term="Spring onion"
+      Conditions="Default.Hidden"
+      LocalConditions=""
+      Position="103" />
+    <IndexCacheEntry
+      Term="Scallion"
+      Conditions="Default.Hidden"
+      LocalConditions=""
+      Position="103" />
+    <IndexCacheEntry
+      Term="Ginger"
+      Conditions="Default.Hidden"
+      LocalConditions=""
+      Position="109" />
+    <IndexCacheEntry
+      Term="Garlic"
+      Conditions="Default.Hidden"
+      LocalConditions=""
+      Position="114" />
+    <IndexCacheEntry
+      Term="Shiitake"
+      Conditions="Default.Hidden"
+      LocalConditions=""
+      Position="120" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="Default.NotA5Print" />
+    <Condition
+      Tag="Default.ScreenOnly" />
+    <Condition
+      Tag="Default.Hidden" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/TableStyles/RecipeInfo.css" />
+    <Url
+      Source="Content/Resources/TableStyles/Ingredients.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

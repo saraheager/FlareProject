@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/TableStyles/Ingredients.css" />
+    <Link
+      Url="Project/ConditionTagSets/Ingredients.flcts" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+    <Link
+      Url="Content/Common/Vegetable Stock.htm" />
+    <Link
+      Url="Content/Common/Chicken Stock.htm" />
+    <Link
+      Url="Content/Common/Snippets/Dashi.flsnp" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/TableStyles/Ingredients.css" />
+    <Link
+      Url="Project/ConditionTagSets/Ingredients.flcts" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+    <Link
+      Url="Content/Common/Vegetable Stock.htm" />
+    <Link
+      Url="Content/Common/Chicken Stock.htm" />
+    <Link
+      Url="Content/Common/Snippets/Dashi.flsnp" />
+  </LongLinks>
+  <Anchors />
+  <Keywords>
+    <IndexCacheEntry
+      Term="Garlic"
+      Conditions=""
+      LocalConditions=""
+      Position="17" />
+    <IndexCacheEntry
+      Term="Ginger"
+      Conditions=""
+      LocalConditions=""
+      Position="23" />
+    <IndexCacheEntry
+      Term="Squash"
+      Conditions=""
+      LocalConditions=""
+      Position="42" />
+    <IndexCacheEntry
+      Term="Aubergine"
+      Conditions=""
+      LocalConditions=""
+      Position="47" />
+    <IndexCacheEntry
+      Term="Tofu"
+      Conditions=""
+      LocalConditions=""
+      Position="57" />
+    <IndexCacheEntry
+      Term="Soy sauce"
+      Conditions=""
+      LocalConditions=""
+      Position="86" />
+    <IndexCacheEntry
+      Term="Dashi"
+      Conditions=""
+      LocalConditions=""
+      Position="92" />
+    <IndexCacheEntry
+      Term="Sake"
+      Conditions=""
+      LocalConditions=""
+      Position="100" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="Ingredients.Vegetarian" />
+    <Condition
+      Tag="Default.NotA5Print" />
+    <Condition
+      Tag="Default.ScreenOnly" />
+    <Condition
+      Tag="Default.Mobile" />
+    <Condition
+      Tag="Default.Tablet" />
+    <Condition
+      Tag="Default.Web" />
+    <Condition
+      Tag="Ingredients.Non-Vegetarian" />
+    <Condition
+      Tag="Ingredients.Dairy free" />
+    <Condition
+      Tag="Ingredients.Free from" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/TableStyles/Ingredients.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

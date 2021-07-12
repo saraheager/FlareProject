@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UrlList>
+    <Url Source="Common/Snippets/Dashi.flsnp" />
+    <Url Source="Resources/Snippets/WhatYouNeed.flsnp" />
+    <Url Source="Common/Snippets/Download-PDF.flsnp" />
+    <Url Source="Common/Snippets/Curry-Cooktime.flsnp" />
+    <Url Source="Common/Snippets/Rice cooker.flsnp" />
+    <Url Source="Common/Snippets/Takoyaki pan.flsnp" />
+    <Url Source="Common/Snippets/Donabe.flsnp" />
+    <Url Source="Resources/Snippets/Miso-ShortDesc.flsnp" />
+    <Url Source="Common/Snippets/SpiceMix-Steps.flsnp" />
+    <Url Source="Common/Snippets/Curry-SpiceMix.flsnp" />
+    <Url Source="Common/Snippets/Curry.flsnp" />
+    <Url Source="Resources/Snippets/Miso-note.flsnp" />
+    <Url Source="Resources/Snippets/Peel-ginger.flsnp" />
+</UrlList>

@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileClass="home-topic"
+  FileSearchable="false"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/TableStyles/Grid.css" />
+    <Link
+      Url="Content/Sides/Ramen egg.htm" />
+    <Link
+      Url="Content/Resources/Images/ramen-eggs.jpg" />
+    <Link
+      Url="Content/Sides/Steamed rice.htm" />
+    <Link
+      Url="Content/Resources/Images/Rice.jpg" />
+    <Link
+      Url="Content/Common/Dashi.htm" />
+    <Link
+      Url="Content/Resources/Images/dashi-2.jpg" />
+    <Link
+      Url="Content/Soups/Miso soup.htm" />
+    <Link
+      Url="Content/Resources/Images/Miso-soup.jpg" />
+    <Link
+      Url="Content/Common/Donabe.htm" />
+    <Link
+      Url="Content/Resources/Images/Donabe.jpg" />
+    <Link
+      Url="Content/Common/Tamagoyaki pan.htm" />
+    <Link
+      Url="Content/Resources/Images/tamagoyakipan.jpg" />
+    <Link
+      Url="Content/Common/Rice cooker.htm" />
+    <Link
+      Url="Content/Resources/Images/rice-cooker.jpg" />
+    <Link
+      Url="Content/Common/Takoyaki pan.htm" />
+    <Link
+      Url="Content/Resources/Images/takoyakipan.jpg" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/TableStyles/Grid.css" />
+    <Link
+      Url="Content/Sides/Ramen egg.htm" />
+    <Link
+      Url="Content/Resources/Images/ramen-eggs.jpg" />
+    <Link
+      Url="Content/Sides/Steamed rice.htm" />
+    <Link
+      Url="Content/Resources/Images/Rice.jpg" />
+    <Link
+      Url="Content/Common/Dashi.htm" />
+    <Link
+      Url="Content/Resources/Images/dashi-2.jpg" />
+    <Link
+      Url="Content/Soups/Miso soup.htm" />
+    <Link
+      Url="Content/Resources/Images/Miso-soup.jpg" />
+    <Link
+      Url="Content/Common/Donabe.htm" />
+    <Link
+      Url="Content/Resources/Images/Donabe.jpg" />
+    <Link
+      Url="Content/Common/Tamagoyaki pan.htm" />
+    <Link
+      Url="Content/Resources/Images/tamagoyakipan.jpg" />
+    <Link
+      Url="Content/Common/Rice cooker.htm" />
+    <Link
+      Url="Content/Resources/Images/rice-cooker.jpg" />
+    <Link
+      Url="Content/Common/Takoyaki pan.htm" />
+    <Link
+      Url="Content/Resources/Images/takoyakipan.jpg" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/TableStyles/Grid.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

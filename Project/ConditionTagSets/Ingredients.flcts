@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet>
+  <ConditionTag
+    Comment=""
+    Name="Dairy free"
+    BackgroundColor="Red" />
+  <ConditionTag
+    BackgroundColor="#8b008b"
+    Name="Gluten free"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#0000ff"
+    Name="Not-DF"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#008000"
+    Name="Not-GF"
+    Comment=""
+    OriginalName="Not-GF" />
+  <ConditionTag
+    BackgroundColor="#ffa500"
+    Name="Vegetarian"
+    Comment=""
+    OriginalName="Vegetarian" />
+  <ConditionTag
+    BackgroundColor="#00bfff"
+    Name="Non-Vegetarian"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#00ff00"
+    Name="Chicken Curry"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#8b4513"
+    Name="MisoRamen"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#ff00ff"
+    Name="Vegetable curry"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#2f4f4f"
+    Name="Shokupan"
+    Comment=""
+    OriginalName="Shokupan" />
+  <ConditionTag
+    BackgroundColor="#9acd32"
+    Name="Free from"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#fa8072"
+    Name="HTMLVegetarian"
+    Comment=""
+    OriginalName="HTMLVegetarian" />
+  <ConditionTag
+    BackgroundColor="#ff0000"
+    Name="HTMLNon-Vegetarian"
+    Comment="" />
+</CatapultConditionTagSet>

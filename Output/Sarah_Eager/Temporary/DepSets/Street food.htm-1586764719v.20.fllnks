@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="Street food"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/TableStyles/Grid.css" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+    <Link
+      Url="Content/Street food/Osaka.htm" />
+    <Link
+      Url="Content/Resources/Images/Osaka.jpg" />
+    <Link
+      Url="Content/Baking/Taiyaki.htm" />
+    <Link
+      Url="Content/Resources/Images/Taiyaki.jpg" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/TableStyles/Grid.css" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+    <Link
+      Url="Content/Street food/Osaka.htm" />
+    <Link
+      Url="Content/Resources/Images/Osaka.jpg" />
+    <Link
+      Url="Content/Baking/Taiyaki.htm" />
+    <Link
+      Url="Content/Resources/Images/Taiyaki.jpg" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="Default.ScreenOnly" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/TableStyles/Grid.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

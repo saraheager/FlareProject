@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles>
+    <Page Name="Left" Width="800" Height="800" Padding="20px" PageSize="A4" PageType="left" PaddingLeft="1in" PaddingRight="1.5in" PaddingTop="1in" PaddingBottom="1in" BackgroundRepeat="repeat" BackgroundImage="none" BackgroundType="Solid" BackgroundColor="#696969">
+        <Frame X="264px" Y="-79px" Width="370px" Height="1097px" Flow="header" Right="-80px" Bottom="-87px">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p xhtml:class="title"><MadCap:variable xhtml:name="General.Title" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+                        </xhtml:p>
+                        <xhtml:p>&#160;</xhtml:p>
+                        <xhtml:p xhtml:class="title"><MadCap:variable xhtml:name="General.Recipe Type" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /><MadCap:variable xhtml:name="General.Book" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+                        </xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame X="-97px" Y="-97px" Width="340px" Height="1132px" Flow="decoration0" Right="311px" Bottom="-104px" BackgroundRepeat="no-repeat" Anchors="" BackgroundImage="../Images/123.jpg" />
+    </Page>
+</PageStyles>

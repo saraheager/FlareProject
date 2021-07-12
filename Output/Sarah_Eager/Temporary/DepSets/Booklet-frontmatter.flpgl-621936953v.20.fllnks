@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="false"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Project/Advanced/Product Tags.flfts" />
+    <Link
+      Url="Content/Resources/Images/Miso-Ramen-Chicken.jpg" />
+    <Link
+      Url="Project/VariableSets/General.flvar" />
+    <Link
+      Url="Content/Resources/Images/Curry-Chicken.jpg" />
+    <Link
+      Url="Content/Resources/Images/Curry-Vegetable.jpg" />
+    <Link
+      Url="Content/Resources/Images/Shokupan.jpg" />
+  </Links>
+  <LongLinks />
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags>
+    <Tag
+      Name="Product Tags.CompactNVRAS3000" />
+  </FileTags>
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

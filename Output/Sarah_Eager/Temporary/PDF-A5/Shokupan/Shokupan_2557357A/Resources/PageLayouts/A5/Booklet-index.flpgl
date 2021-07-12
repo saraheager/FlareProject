@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles>
+    <Page Name="Index Left" Width="800" Height="800" Padding="20px" PageSize="A5" PageType="left" PaddingLeft="0" PaddingRight="0" PaddingTop="0" PaddingBottom="0">
+        <Frame X="18mm" Y="11.37708mm" Width="110.0667mm" Height="5.027083mm" FlowIndex="1" Flow="header" Anchors="" Right="70px" Bottom="731px">
+            <Content>
+                <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:head>
+                    </xhtml:head>
+                    <xhtml:body>
+                        <xhtml:p xhtml:class="HeaderLeft"><MadCap:variable xhtml:name="System.PageNumber" />
+                        </xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame Flow="body" ColumnCount="2" Anchors="" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" X="18mm" Y="26.19375mm" Right="70px" Bottom="51px" Width="11.00667cm" Height="17.01271cm" ColumnGap="6.5mm">
+        </Frame>
+    </Page>
+    <Page Name="Index Right" Width="800" Height="800" Padding="20px" PageSize="A5" PageType="right" PaddingLeft="0" PaddingRight="0" PaddingTop="0" PaddingBottom="0">
+        <Frame X="20.16667mm" Y="11.37708mm" Width="110.0667mm" Height="5.027083mm" FlowIndex="1" Flow="header" Anchors="" Right="63px" Bottom="731px" PaddingLeft="0px" PaddingRight="0px">
+            <Content>
+                <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:head>
+                    </xhtml:head>
+                    <xhtml:body>
+                        <xhtml:p xhtml:class="HeaderRight"><MadCap:variable xhtml:name="System.PageNumber" />
+                        </xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame Flow="body" ColumnCount="2" Anchors="" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" X="20.16667mm" Y="26.19375mm" Right="63px" Bottom="51px" Width="11.00667cm" Height="17.01271cm" ColumnGap="6.5mm">
+        </Frame>
+    </Page>
+    <Page Width="800" Height="800" Padding="20px" PageSize="A5" PageType="first" PaddingLeft="0" PaddingRight="0" PaddingTop="0" PaddingBottom="0" Name="Index First">
+        <Frame X="20mm" Y="20mm" Width="110mm" Height="25mm" Flow="body" Anchors="" />
+        <Frame X="20mm" Y="54mm" Width="110.0667mm" Height="140mm" FlowIndex="1" Flow="body" Anchors="" Right="-343px" Bottom="427px" ColumnCount="2" ColumnGap="6.5mm" />
+    </Page>
+    <Page Width="800" Height="800" Padding="20px" PageSize="A5" PageType="empty" Name="Empty" PaddingRight="0" PaddingLeft="0" PaddingTop="2.5cm" PaddingBottom="2.5cm">
+    </Page>
+</PageStyles>

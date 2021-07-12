@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="Ramen"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/TableStyles/Grid.css" />
+    <Link
+      Url="Project/ConditionTagSets/Ingredients.flcts" />
+    <Link
+      Url="Content/Soups/Miso ramen.htm" />
+    <Link
+      Url="Content/Resources/Images/Miso-Ramen-Chicken.jpg" />
+    <Link
+      Url="Content/Resources/Images/Miso-Ramen-Vegan.jpg" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/TableStyles/Grid.css" />
+    <Link
+      Url="Project/ConditionTagSets/Ingredients.flcts" />
+    <Link
+      Url="Content/Soups/Miso ramen.htm" />
+    <Link
+      Url="Content/Resources/Images/Miso-Ramen-Chicken.jpg" />
+    <Link
+      Url="Content/Resources/Images/Miso-Ramen-Vegan.jpg" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="Ingredients.HTMLNon-Vegetarian" />
+    <Condition
+      Tag="Ingredients.Non-Vegetarian" />
+    <Condition
+      Tag="Ingredients.HTMLVegetarian" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/TableStyles/Grid.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

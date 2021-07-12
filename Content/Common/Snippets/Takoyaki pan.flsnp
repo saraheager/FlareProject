@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <p>A takoyaki pan  is typically a griddle made of cast iron with hemispherical molds.</p>
+        <p> The heavy iron evenly heats the takoyaki, which are turned with a pick during the heating process to pull the uncooked batter to the base of the rounded cavity. Commercial gas-fueled takoyaki cookers are used at Japanese festivals or by street vendors. For home use, electric versions resemble a hotplate; stovetop versions are also available. </p>
+        <p MadCap:conditions="Default.PrintOnly">
+            <img src="../../Resources/Images/takoyakipan.jpg" style="width: 849px;height: 636px;" />
+        </p>
+        <p class="subhead">Takoyaki pan recipes</p>
+        <ul>
+            <li>
+                <MadCap:xref href="../../Street food/Takoyaki.htm" class="pdfTOC" MadCap:conditions="Default.PrintOnly">Takoyaki</MadCap:xref>
+                <MadCap:xref href="../../Street food/Takoyaki.htm" class="htmlTOC" MadCap:conditions="Default.ScreenOnly">Takoyaki</MadCap:xref>
+            </li>
+        </ul>
+    </body>
+</html>

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="Dairy Free Recipes"
+  Type="PDF"
+  Destinations=""
+  ConditionTagExpression="include[Default.NotA5Print or Default.PrintOnly or &quot;Ingredients.Dairy free&quot; or Ingredients.Non-Vegetarian or Ingredients.Not-DF], exclude[Default.A5only or Default.Hidden or Default.Mobile or Default.NotA5HTML or Default.ScreenOnly or Default.Tablet or Default.Web or General.ScreenOnly or &quot;Ingredients.Chicken Curry&quot; or &quot;Ingredients.Free from&quot; or &quot;Ingredients.Gluten free&quot; or Ingredients.HTMLNon-Vegetarian or Ingredients.HTMLVegetarian or Ingredients.MisoRamen or Ingredients.Not-GF or Ingredients.Shokupan or &quot;Ingredients.Vegetable curry&quot; or Ingredients.Vegetarian]"
+  PatchHeadingLevels="true"
+  InjectEmptyPages="false"
+  MasterToc="/Project/TOCs/TOC.fltoc"
+  MasterPageLayout="/Content/Resources/PageLayouts/A4-Layout.flpgl"
+  MasterStylesheet="/Content/Resources/Stylesheets/NewStylesheet.css">
+  <PrintedOutput
+    CollapseMargins="false"
+    ExpandingTextConversion="expand"
+    PopupConversion="remove-body"
+    GenerateTOCProxy="false"
+    GenerateIndexProxy="false"
+    GenerateGlossaryProxy="false"
+    OutputFormat="doc" />
+  <DocumentProperties
+    Title="Dairy Free Recipes"
+    Author="" />
+  <PDF
+    ShowUsedBookmarks="false"
+    InitialMagnification="50"
+    PageLayout="OneColumn"
+    TitleBar="DocumentTitle"
+    CollapsedBookmarks="true"
+    CropAndRegistrationMarks="false"
+    ConvertToCMYK="true"
+    Tagged="false" />
+  <Variables>
+    <Variable
+      Name="General/Title">miSO YUM</Variable>
+    <Variable
+      Name="General/Recipe Type">Easy Dairy Free Japanese</Variable>
+    <Variable
+      Name="General/Book">Recipes</Variable>
+  </Variables>
+</CatapultTarget>

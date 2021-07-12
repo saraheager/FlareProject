@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <ul>
+            <li>
+                <MadCap:xref href="../Vegetable Stock.htm" class="pdfTOC" MadCap:conditions="Default.PrintOnly">Vegetable stock</MadCap:xref><a href="../Vegetable Stock.htm" class="htmlTOC" MadCap:conditions="Default.ScreenOnly">Vegetable stock</a>
+            </li>
+            <li MadCap:conditions="Ingredients.Non-Vegetarian">
+                <MadCap:xref href="../Chicken Stock.htm" class="pdfTOC" MadCap:conditions="Default.PrintOnly">Chicken stock</MadCap:xref><a href="../Chicken Stock.htm" class="htmlTOC" MadCap:conditions="Default.ScreenOnly">Chicken stock</a>
+            </li>
+            <li MadCap:conditions="Ingredients.Non-Vegetarian">
+                <MadCap:xref href="../../Soups/Chicken curry.htm" class="pdfTOC" MadCap:conditions="Default.PrintOnly">Chicken curry</MadCap:xref><a href="../../Soups/Chicken curry.htm" class="htmlTOC" MadCap:conditions="Default.ScreenOnly">Chicken curry</a>
+            </li>
+            <li>
+                <MadCap:xref href="../../Soups/Vegetable curry.htm" class="pdfTOC" MadCap:conditions="Default.PrintOnly">Vegetable curry</MadCap:xref><a href="../../Soups/Vegetable curry.htm" class="htmlTOC" MadCap:conditions="Default.ScreenOnly">Vegetable curry</a>
+            </li>
+        </ul>
+    </body>
+</html>
